@@ -1,0 +1,9 @@
+# terminal procedure for construction of map
+
+>>> pip3 install folium
+>>> import folium
+>>> map = folium.Map(location=[30.232562, 74.935150], zoom_start=7, tiles="Stamen Terrain")
+>>> map
+>>> map.save("pbmap.html")
+
+# map1.html file gets saved with map zoomed at the coordinates and zoom power specified

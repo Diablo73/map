@@ -1,0 +1,52 @@
+NAME,CITY,LAT,LON
+Eden Gardens,Kolkata,22.5646,88.3433
+Wankhede Stadium,Mumbai,18.9389,72.8258
+Feroz Shah Kotla Ground,New Delhi,28.6379,77.2432
+M Chinnaswamy Stadium,Bengaluru,12.9788,77.5998
+MA Chidambaram Stadium,Chennai,13.0577,80.2743
+Sadar Patel Stadium,Ahmedabad,23.0918,72.5975
+Rajiv Gandhi International Cricket Stadium,Hyderabad,17.4065,78.5505
+IS Bindra Stadium,Mohali,30.6909,76.7375
+HPCA,Dharamshala,32.1976,76.3258
+Sawai Mansingh Stadium,Jaipur,26.8897,75.8019
+Holkar Cricket Stadium,Indore,22.7243,75.8797
+Maharashtra Cricket Association Stadium,Pune,18.5013,73.8533
+ACA-VDCA Cricket Stadium,Visakhapatnam,17.7917,83.3512
+Vidarbha Cricket Association Stadium,Nagpur,21.0081,79.0371
+Premadasa International Stadium,Colombo,6.9394,79.8720
+MRIC Stadium,Hambantota,6.3563,81.0263
+Sher-e-Bangla Cricket Stadium,Dhaka,23.8041,90.3581
+Zohur Ahmed Chowdhury Stadium,Chittagong,22.3384,91.8317
+Gaddafi Stadium,Lahore,31.5080,74.3333
+National Stadium,Karachi,24.8910,67.0755
+Lord's Cricket Ground,London,51.5294,-0.1727
+The Oval,Kennington,51.4830,-0.1180
+Edgbaston Cricket Ground,Birmingham,52.4535,-1.9015
+Sophia Gardens,Cardiff,51.4856,-3.1881
+Bristol County Ground,Bristol,51.4289,-2.5578
+Old Trafford Cricket Ground,Manchester,53.4538,-2.2854
+Emirates Riverside,Chester-le-Street,54.8586,-1.5740
+Yorkshire Cricket Ground,Leeds,53.7965,-1.5479
+Sir Vivian Richards Stadium,Antigua and Barbuda,17.1020,-61.7842
+Kensington Oval,Barbados,13.1030,-59.6202
+Queen's Park Oval,Trinidad and Tobago,10.6671,-61.5209
+Providence Stadium,Guyana,6.7547,-58.1735
+Wanderers Stadium,Johannesburg,-26.1254,28.0544
+Kingsmead Cricket Ground,Durban,-29.8500,031.0278
+Newlands Cricket Ground,Cape Town,-33.9737,018.4689
+SuperSport Centurion Park,Centurion,-25.8501,28.1980
+Crusaders Ground,Port Elizabeth,-33.9180,25.5701
+Sharjah Cricket Stadium,Sharjah,25.3308,055.4209
+Sheikh Zayed Cricket Stadium,Abu Dhabi,24.1848,54.4999
+Dubai International Stadium,Dubai,25.0466,55.2188
+Melbourne Cricket Ground,Melbourne,-37.8199,144.9833
+Sydney Cricket Ground,Sydney,-33.8916,151.2247
+The Gabba,Brisbane,-27.4679,153.0281
+Adelaide Oval,Adelaide,-34.9093,138.5910
+Bellerive Oval,Hobart,-42.8794,147.3294
+WACA Ground,Perth,-31.9400,115.8255
+Wellington Regional Stadium,Wellington,-41.3002,174.7802
+Eden Park,Auckland,-36.8717,174.7402
+Hagley Oval,Christchurch,-43.5340,172.6190
+Seddon Park,Hamilton,-37.7833,175.2833
+McLean Park,Napier,-39.5019,176.9127
