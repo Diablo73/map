@@ -1,0 +1,1057 @@
+﻿LAT,LON,TYPE,NAME,COUNTRY,CITY,IATA
+25.32859993,55.51720047,LAR,Sharjah International Airport,AE,Sharjah,SHJ
+25.25279999,55.36439896,LAR,Dubai International Airport,AE,Dubai,DXB
+24.43300056,54.65110016,LAR,Abu Dhabi International Airport,AE,Abu Dhabi,AUH
+34.565899,69.212303,MED,Hamid Karzai International Airport,AF,Kabul,KBL
+17.1367,-61.792702,MED,V.C. Bird International Airport,AG,St. John's,ANU
+18.2048,-63.055099,MED,Clayton J Lloyd International Airport,AI,The Valley,AXA
+41.41469955,19.72060013,LAR,Tirana International Airport Mother Teresa,AL,Tirana,TIA
+40.14730072,44.39590073,LAR,Zvartnots International Airport,AM,Yerevan,EVN
+-8.85837,13.2312,LAR,Quatro de Fevereiro Airport,AO,Luanda,LAD
+-38.975498,-70.113602,MED,Zapala Airport,AR,Zapala,APZ
+-36.5423,-56.7218,MED,Santa Teresita Airport,AR,Santa Teresita,SST
+-36.588299,-64.275703,MED,Santa Rosa Airport,AR,Santa Rosa,RSA
+-34.588299,-68.4039,MED,Suboficial Ay Santiago Germano Airport,AR,San Rafael,AFA
+-41.151199,-71.157501,MED,San Carlos De Bariloche Airport,AR,San Carlos de Bariloche,BRC
+-27.45,-59.0561,MED,Resistencia International Airport,AR,Resistencia,RES
+-29.6894,-57.1521,MED,Paso De Los Libres Airport,AR,Paso de los Libres,AOL
+-24.392799,-65.097801,MED,Gobernador Horacio Guzman International Airport,AR,San Salvador de Jujuy,JUJ
+-31.571501,-68.418198,MED,Domingo Faustino Sarmiento Airport,AR,San Juan,UAQ
+-27.4455,-58.7619,MED,Corrientes Airport,AR,Corrientes,CNQ
+-31.2969,-57.9966,MED,Comodoro Pierrestegui Airport,AR,Concordia,COC
+-33.72990036,-65.38739777,MED,Villa Reynolds Airport,AR,Villa Mercedes,VME
+-32.9036,-60.785,MED,Islas Malvinas Airport,AR,Rosario,ROS
+-53.7777,-67.7494,MED,Hermes Quijada International Airport,AR,Rio Grande,RGA
+-32.83169937,-68.79290009,MED,El Plumerillo Airport,AR,Mendoza,MDZ
+-34.5592,-58.4156,MED,Jorge Newbery Airpark,AR,Buenos Aires,AEP
+-34.8222,-58.5358,LAR,Ministro Pistarini International Airport,AR,Buenos Aires,EZE
+-14.33100033,-170.7100067,MED,Pago Pago International Airport,AS,Pago Pago,PPG
+48.11029816,16.56970024,LAR,Vienna International Airport,AT,Vienna,VIE
+-33.600601,150.781006,MED,RAAF Base Richmond,AU,Richmond,XRH
+-31.43580055,152.8630066,MED,Port Macquarie Airport,AU,Port Macquarie,PQQ
+-34.6053009,135.8800049,MED,Port Lincoln Airport,AU,Port Lincoln,PLO
+-37.97579956,145.102005,MED,Melbourne Moorabbin Airport,AU,Melbourne,MBW
+-21.17169952,149.1799927,MED,Mackay Airport,AU,Mackay,MKY
+-32.09749985,115.8809967,MED,Perth Jandakot Airport,AU,Perth,JAD
+-42.83610153,147.5099945,MED,Hobart International Airport,AU,Hobart,HBA
+-20.35810089,148.9519959,MED,Hamilton Island Airport,AU,Hamilton Island,HTI
+-34.25080109,146.0670013,MED,Griffith Airport,AU,Griffith,GFF
+-28.1644001,153.5050049,MED,Gold Coast Airport,AU,Gold Coast,OOL
+-33.363602,147.934998,MED,Forbes Airport,AU,Forbes,FRB
+-33.684399,121.822998,MED,Esperance Airport,AU,Esperance,EPR
+-23.56749916,148.1790009,MED,Emerald Airport,AU,Emerald,EMD
+-12.01939964,135.5709991,MED,Elcho Island Airport,AU,Elcho Island,ELC
+-41.16970062,146.4299927,MED,Devonport Airport,AU,Devonport,DPO
+-40.99890137,145.7310028,MED,Wynyard Airport,AU,Burnie,BWT
+-33.92440033,150.9880066,MED,Sydney Bankstown Airport,AU,Sydney,BWU
+-38.039398,144.468994,MED,Avalon Airport,AU,Melbourne,AVV
+-23.80669975,133.9019928,MED,Alice Springs Airport,AU,Alice Springs,ASP
+-36.06779861,146.9579926,MED,Albury Airport,AU,Albury,ABX
+-34.94329834,117.8089981,MED,Albany Airport,AU,Albany,ALH
+-31.94029999,115.9670029,LAR,Perth International Airport,AU,Perth,PER
+-37.673302,144.843002,LAR,Melbourne International Airport,AU,Melbourne,MEL
+-33.94609833,151.177002,LAR,Sydney Kingsford Smith International Airport,AU,Sydney,SYD
+-35.30690002,149.1950073,LAR,Canberra International Airport,AU,Canberra,CBR
+-27.38419914,153.1170044,LAR,Brisbane International Airport,AU,Brisbane,BNE
+-34.945,138.531006,LAR,Adelaide International Airport,AU,Adelaide,ADL
+12.5014,-70.015198,MED,Queen Beatrix International Airport,AW,Oranjestad,AUA
+40.46749878,50.04669952,LAR,Heydar Aliyev International Airport,AZ,Baku,GYD
+43.82460022,18.3314991,LAR,Sarajevo International Airport,BA,Sarajevo,SJJ
+13.07460022,-59.49250031,MED,Sir Grantley Adams International Airport,BB,Bridgetown,BGI
+22.24959946,91.81330109,MED,Shah Amanat International Airport,BD,Chittagong,CGP
+23.843347,90.397783,LAR,Hazrat Shahjalal International Airport,BD,Dhaka,DAC
+51.18939972,4.460279942,MED,Antwerp International Airport (Deurne),BE,Antwerp,ANR
+50.459202,4.45382,LAR,Brussels South Charleroi Airport,BE,Brussels,CRL
+50.90140152,4.48443985,LAR,Brussels Airport,BE,Brussels,BRU
+42.69669342,23.41143608,LAR,Sofia Airport,BG,Sofia,SOF
+26.27079964,50.63359833,LAR,Bahrain International Airport,BH,Manama,BAH
+-3.324019909,29.31850052,MED,Bujumbura International Airport,BI,Bujumbura,BJM
+6.357230186,2.384350061,MED,Cadjehoun Airport,BJ,Cotonou,COO
+17.90439987,-62.84360123,MED,Gustaf III Airport,BL,Gustavia,SBH
+32.36399841,-64.67870331,MED,L.F. Wade International International Airport,BM,Hamilton,BDA
+4.944200039,114.9280014,LAR,Brunei International Airport,BN,Bandar Seri Begawan,BWN
+-14.81869984,-64.91799927,MED,Teniente Av. Jorge Henrich Arauz Airport,BO,Trinidad,TDD
+-17.81159973,-63.17150116,MED,El Trompillo Airport,BO,Santa Cruz,SRZ
+-16.51329994,-68.19229889,MED,El Alto International Airport,BO,La Paz / El Alto,LPB
+-17.6448,-63.135399,LAR,Viru Viru International Airport,BO,Santa Cruz,VVI
+-29.711399,-53.688202,MED,Santa Maria Airport,BR,Santa Maria,RIA
+-29.78219986,-57.03820038,MED,Rubem Berta Airport,BR,Uruguaiana,URG
+-22.91049957,-43.1631012,MED,Santos Dumont Airport,BR,Rio De Janeiro,SDU
+-29.99440002,-51.17139816,MED,Salgado Filho Airport,BR,Porto Alegre,POA
+-22.17510033,-51.42459869,MED,Presidente Prudente Airport,BR,Presidente Prudente,PPB
+-10.29150009,-48.35699844,MED,Brigadeiro Lysias Rodrigues Airport,BR,Palmas,PMW
+-3.038609982,-60.04970169,MED,Eduardo Gomes International Airport,BR,Manaus,MAO
+-23.43555641,-46.47305679,LAR,Guarulhos - Governador Andra Franco Montoro International Airport,BR,Sao Paulo,GRU
+-22.80999947,-43.25055695,LAR,Rio Galealo ae Tom Jobim International Airport,BR,Rio De Janeiro,GIG
+-27.67027855,-48.55250168,LAR,Herca­lio Luz International Airport,BR,Florianapolis,FLN
+-12.9086113,-38.32249832,LAR,Deputado Luiz Eduardo Magalha£es International Airport,BR,Salvador,SSA
+-23.62611008,-46.65638733,LAR,Congonhas Airport,BR,Sao Paulo,CGH
+-15.86916733,-47.92083359,LAR,Presidente Juscelino Kubistschek International Airport,BR,Brasilia,BSB
+-25.5284996,-49.17580032,LAR,Afonso Pena Airport,BR,Curitiba,CWB
+23.582317,-75.268621,MED,Stella Maris Airport,BS,Stella Maris,SML
+26.74530029,-77.39129639,MED,Treasure Cay Airport,BS,Treasure Cay,TCB
+24.06329918,-74.52400208,MED,San Salvador Airport,BS,San Salvador,ZSA
+25.05380058,-78.0490036,MED,San Andros Airport,BS,Andros Island,SAQ
+25.03899956,-77.46620178,LAR,Lynden Pindling International Airport,BS,Nassau,NAS
+27.40320015,89.42459869,MED,Paro Airport,BT,Paro,PBH
+-24.555201,25.9182,LAR,Sir Seretse Khama International Airport,BW,Gaborone,GBE
+53.88249969,28.03070068,LAR,Minsk National Airport,BY,Minsk,MSQ
+17.9139,-87.9711,MED,San Pedro Airport,BZ,San Pedro,SPR
+17.53910065,-88.30819702,LAR,Philip S. W. Goldson International Airport,BZ,Belize City,BZE
+46.1614,-60.047798,MED,Sydney / J.A. Douglas McCurdy Airport,CA,Sydney,YQY
+51.26470184,-102.461998,MED,Yorkton Municipal Airport,CA,Yorkton,YQV
+42.27560043,-82.95559692,MED,Windsor Airport,CA,Windsor,YQG
+52.18310165,-122.0540009,MED,Williams Lake Airport,CA,Williams Lake,YWL
+44.7458,-81.107201,MED,Wiarton Airport,CA,Wiarton,YVV
+60.70959854,-135.0670013,MED,Whitehorse / Erik Nielsen International Airport,CA,Whitehorse,YXY
+50.24810028,-119.3310013,MED,Vernon Airport,CA,Vernon,YVE
+48.05329895,-77.78279877,MED,Val-d'Or Airport,CA,Val-d'Or,YVO
+59.56140137,-108.4810028,MED,Uranium City Airport,CA,Uranium City,YBE
+43.627499,-79.396202,MED,Billy Bishop Toronto City Centre Airport,CA,Toronto,YTZ
+43.74250031,-79.46559906,MED,Downsview Airport,CA,Toronto,YZD
+43.86220169,-79.37000275,MED,Buttonville Municipal Airport,CA,Toronto,YKZ
+48.37189865,-89.32389832,MED,Thunder Bay Airport,CA,Thunder Bay,YQT
+45.29439926,-73.28109741,MED,St Jean Airport,CA,St Jean,YJN
+55.93541045,-129.9824345,MED,Stewart Airport,CA,Stewart,ZST
+48.5442009,-58.54999924,MED,Stephenville Airport,CA,Stephenville,YJT
+51.21170044,-58.65829849,MED,St Augustin Airport,CA,St-Augustin,YIF
+42.77000046,-81.1108017,MED,St Thomas Municipal Airport,CA,St Thomas,YQS
+53.84560013,-94.85189819,MED,St. Theresa Point Airport,CA,St. Theresa Point,YST
+47.15750122,-67.83470154,MED,St Leonard Airport,CA,St Leonard,YSL
+43.19169998,-79.17169952,MED,Niagara District Airport,CA,St Catharines,YCM
+51.39189911,-56.08309937,MED,St. Anthony Airport,CA,St. Anthony,YAY
+56.7928009,-98.90720367,MED,South Indian Lake Airport,CA,South Indian Lake,XSI
+46.7911,-71.393303,MED,Quebec Jean Lesage International Airport,CA,Quebec,YQB
+44.94580078,-75.94059753,MED,Smiths Falls-Montague (Russ Beach) Airport,CA,Smiths Falls,YSH
+54.8246994,-127.1829987,MED,Smithers Airport,CA,Smithers,YYD
+54.80530167,-66.80529785,MED,Schefferville Airport,CA,Schefferville,YKL
+45.679501,-74.038696,MED,Montreal International (Mirabel) Airport,CA,Montreal,YMX
+52.18220139,-113.8939972,MED,Red Deer Regional Airport,CA,Red Deer,YQF
+58.49140167,-119.4079971,MED,Rainbow Lake Airport,CA,Rainbow Lake,YOP
+54.28609848,-130.4450073,MED,Prince Rupert Airport,CA,Prince Rupert,YPR
+53.88940048,-122.6790009,MED,Prince George Airport,CA,Prince George,YXS
+53.21419907,-105.6729965,MED,Prince Albert Glass Field,CA,Prince Albert,YPA
+58.27669907,-104.0820007,MED,Points North Landing Airport,CA,Points North Landing,YNL
+49.52059937,-113.9970016,MED,Pincher Creek Airport,CA,Pincher Creek,WPC
+51.44639969,-90.21420288,MED,Pickle Lake Airport,CA,Pickle Lake,YPL
+44.22999954,-78.36329651,MED,Peterborough Airport,CA,Peterborough,YPQ
+54.93330002,-95.27890015,MED,Oxford House Airport,CA,Oxford House,YOH
+45.46030045,-75.64610291,MED,Ottawa / Rockcliffe Airport,CA,Ottawa,YRO
+53.95830154,-97.84420013,MED,Norway House Airport,CA,Norway House,YNE
+46.363602,-79.422798,MED,North Bay Jack Garland Airport,CA,North Bay,YYB
+52.76919937,-108.2440033,MED,North Battleford Airport,CA,North Battleford,YQW
+65.28160095,-126.7979965,MED,Norman Wells Airport,CA,Norman Wells,YVQ
+52.30279922,-55.84719849,MED,Mary's Harbour Airport,CA,Mary's Harbour,YMH
+48.75529861,-86.3443985,MED,Marathon Airport,CA,Marathon,YSP
+56.86389923,-101.0759964,MED,Lynn Lake Airport,CA,Lynn Lake,YYL
+43.035599,-81.1539,MED,London Airport,CA,London,YXU
+53.30920029,-110.072998,MED,Lloydminster Airport,CA,Lloydminster,YLL
+52.04560089,-95.46579742,MED,Little Grand Rapids Airport,CA,Little Grand Rapids,ZGR
+49.63029861,-112.8000031,MED,Lethbridge County Airport,CA,Lethbridge,YQL
+56.51330185,-99.98529816,MED,Leaf Rapids Airport,CA,Leaf Rapids,YLR
+55.17969894,-118.8850021,MED,Grande Prairie Airport,CA,Grande Prairie,YQU
+54.83969879,-94.07859802,MED,Gods River Airport,CA,Gods River,ZGI
+54.55889893,-94.49140167,MED,Gods Lake Narrows Airport,CA,Gods Lake Narrows,YGO
+59.33440018,-107.1819992,MED,Fond-Du-Lac Airport,CA,Fond-Du-Lac,ZFD
+44.54584504,-65.78542471,MED,Digby / Annapolis Regional Airport,CA,Digby,YDG
+52.65579987,-94.06140137,MED,Deer Lake Airport,CA,Deer Lake,YVZ
+49.21080017,-57.39139938,MED,Deer Lake Airport,CA,Deer Lake,YDF
+55.74229813,-120.1829987,MED,Dawson Creek Airport,CA,Dawson Creek,YDQ
+64.04309845,-139.128006,MED,Dawson City Airport,CA,Dawson City,YDA
+64.19329834,-83.35939789,MED,Coral Harbour Airport,CA,Coral Harbour,YZS
+49.10559845,-81.01360321,MED,Cochrane Airport,CA,Cochrane,YCN
+58.73920059,-94.06500244,MED,Churchill Airport,CA,Churchill,YYQ
+44.1189003,-77.52809906,MED,CFB Trenton,CA,Trenton,YTR
+44.9844017,-64.91690063,MED,CFB Greenwood,CA,Greenwood,YZX
+53.31919861,-60.42580032,MED,Goose Bay Airport,CA,Goose Bay,YYR
+49.0742,-123.012001,MED,Boundary Bay Airport,CA,Vancouver,YDT
+53.81779861,-89.89689636,MED,Big Trout Lake Airport,CA,Big Trout Lake,YTL
+64.29889679,-96.07779694,MED,Baker Lake Airport,CA,Baker Lake,YBK
+49.90999985,-97.23989868,LAR,Winnipeg / James Armstrong Richardson International Airport,CA,Winnipeg,YWG
+48.64690018,-123.4260025,LAR,Victoria International Airport,CA,Victoria,YYJ
+49.19390106,-123.1839981,LAR,Vancouver International Airport,CA,Vancouver,YVR
+43.67720032,-79.63059998,LAR,Lester B. Pearson International Airport,CA,Toronto,YYZ
+47.61859894,-52.75189972,LAR,St. John's International Airport,CA,St. John's,YYT
+45.32249832,-75.66919708,LAR,Ottawa Macdonald-Cartier International Airport,CA,Ottawa,YOW
+53.30970001,-113.5800018,LAR,Edmonton International Airport,CA,Edmonton,YEG
+45.47060013,-73.74079895,LAR,Montreal / Pierre Elliott Trudeau International Airport,CA,Montraal,YUL
+51.11389923,-114.0199966,LAR,Calgary International Airport,CA,Calgary,YYC
+-12.18830013,96.83390045,MED,Cocos (Keeling) Islands Airport,CC,Cocos (Keeling) Islands,CCK
+-4.38575,15.4446,LAR,Ndjili International Airport,CD,Kinshasa,FIH
+4.398479939,18.51880074,MED,Bangui M'Poko International Airport,CF,Bangui,BGF
+-4.816030025,11.88659954,MED,Pointe Noire Airport,CG,Pointe Noire,PNR
+-4.251699924,15.25300026,MED,Maya-Maya Airport,CG,Brazzaville,BZV
+46.91410065,7.497149944,MED,Bern Belp Airport,CH,Bern,BRN
+47.464699,8.54917,LAR,Zurich Airport,CH,Zurich,ZRH
+46.23809814,6.108950138,LAR,Geneva Cointrin International Airport,CH,Geneva,GVA
+6.903170109,-5.365580082,MED,Yamoussoukro Airport,CI,Yamoussoukro,ASK
+-21.20269966,-159.8059998,LAR,Rarotonga International Airport,CK,Avarua,RAR
+-39.65000153,-73.08609772,MED,Pichoy Airport,CL,Valdivia,ZAL
+-27.16480064,-109.4219971,MED,Mataveri Airport,CL,Isla De Pascua,IPC
+-29.916201,-71.199501,MED,La Florida Airport,CL,La Serena-Coquimbo,LSC
+-36.58250046,-72.03140259,MED,Gral. Bernardo OÂ´Higgins Airport,CL,Chillan,YAI
+-41.43889999,-73.09400177,MED,El Tepual Airport,CL,Puerto Montt,PMC
+-36.772701,-73.063103,MED,Carriel Sur Airport,CL,Concepcion,CCP
+-33.39300156,-70.78579712,LAR,Comodoro Arturo Merino Bena­tez International Airport,CL,Santiago,SCL
+5.536920071,10.35459995,MED,Bafoussam Airport,CM,Bafoussam,BFX
+34.376701,109.120003,MED,Xi'an Xiguan Airport,CN,Xi'an,SIA
+38.322758,106.393214,MED,Yinchuan Hedong International Airport,CN,Yinchuan,INC
+32.5634,119.7198,MED,Yangzhou Taizhou Airport,CN,Yangzhou and Taizhou,YTY
+26.802,110.642,MED,Shaoyang Wugang Airport,CN,Shaoyang,WGN
+28.3797,117.9643,MED,Shangrao Sanqingshan Airport,CN,Shangrao,SQD
+24.7964,118.589996,MED,Quanzhou Jinjiang International Airport,CN,Quanzhou,JJN
+35.799702,107.602997,MED,Qingyang Airport,CN,Qingyang,IQN
+24.2075,109.390999,MED,Liuzhou Bailian Airport,CN,Liuzhou,LZH
+45.505278,123.019722,MED,Baicheng Chang'an Airport,CN,Baicheng,DBC
+29.323056,100.053333,MED,Daocheng Yading Airport,CN,Daocheng County,DCY
+41.1225,118.073889,MED,Chengde Puning Airport,CN,Chengde,CDE
+41.538101,120.434998,MED,Chaoyang Airport,CN,Chaoyang,CHG
+23.273889,99.373611,MED,Cangyuan Washan Airport,CN,Cangyuan Va Autonomous County,CWJ
+37.573125,105.154454,MED,Zhongwei Shapotou Airport,CN,Zhongwei,ZHY
+27.44111111,109.7,MED,Zhijiang Airport,CN,Huaihua,HJJ
+21.214399,110.358002,MED,Zhanjiang Airport,CN,Zhanjiang,ZHA
+38.80189896,100.6750031,MED,Zhangye Ganzhou Airport,CN,Zhangye,YZY
+40.73860168,114.9300003,MED,Zhangjiakou Ningyuan Airport,CN,Zhangjiakou,ZQZ
+26.338661,111.610043,MED,Lingling Airport,CN,Yongzhou,LLF
+34.059056,117.555278,MED,Xuzhou Guanyin Airport,CN,Xuzhou,XUZ
+25.08638889,104.9594444,MED,Xingyi Airport,CN,Xingyi,ACX
+27.9890995,102.1839981,MED,Xichang Qingshan Airport,CN,Xichang,XIC
+34.55939865,105.8600006,MED,Tianshui Maijishan Airport,CN,Tianshui,THQ
+36.26610184,120.3740005,MED,Liuting Airport,CN,Qingdao,TAO
+29.51333333,108.8311111,MED,Qianjiang Wulingshan Airport,CN,Qianjiang,JIQ
+41.10139847,121.0619965,MED,Jinzhou Airport,CN,Jinzhou,JNZ
+26.85689926,114.7369995,MED,Jinggangshan Airport,CN,Ji'an,JGS
+33.79083333,119.125,MED,Lianshui Airport,CN,Huai'an,HIA
+37.50859833,118.788002,MED,Dongying Shengli Airport,CN,Dongying,DOY
+27.7936,99.6772,MED,Diqing Airport,CN,Shangri-La,DIG
+40.0247,124.286003,MED,Dandong Airport,CN,Dandong,DDG
+25.649401,100.319,MED,Dali Airport,CN,Xiaguan,DLU
+42.23500061,118.9079971,MED,Chifeng Airport,CN,Chifeng,CIF
+39.26666667,122.6669444,MED,Changhai Airport,CN,Changhai,CNI
+28.91889954,111.6399994,MED,Changde Airport,CN,Changde,CGD
+27.912201,120.851997,LAR,Wenzhou Longwan International Airport,CN,Wenzhou,WNZ
+25.1019444,102.9291667,LAR,Kunming Changshui International Airport,CN,Kunming,KMG
+39.509945,116.41092,LAR,Beijing Daxing International Airport,CN,Beijing,PKX
+34.5196991,113.8410034,LAR,Zhengzhou Xinzheng International Airport,CN,Zhengzhou,CGO
+34.447102,108.751999,LAR,Xi'an Xianyang International Airport,CN,Xi'an,XIY
+24.54400063,118.1279984,LAR,Xiamen Gaoqi International Airport,CN,Xiamen,XMN
+30.7838,114.208,LAR,Wuhan Tianhe International Airport,CN,Wuhan,WUH
+39.12440109,117.3460007,LAR,Tianjin Binhai International Airport,CN,Tianjin,TSN
+37.74689865,112.6279984,LAR,Taiyuan Wusu Airport,CN,Taiyuan,TYN
+22.63929939,113.810997,LAR,Shenzhen Bao'an International Airport,CN,Shenzhen,SZX
+41.63980103,123.4830017,LAR,Taoxian Airport,CN,Shenyang,SHE
+31.14340019,121.8050003,LAR,Shanghai Pudong International Airport,CN,Shanghai,PVG
+31.19790077,121.3359985,LAR,Shanghai Hongqiao International Airport,CN,Shanghai,SHA
+18.30290031,109.4120026,LAR,Sanya Phoenix International Airport,CN,Sanya,SYX
+29.82670021,121.461998,LAR,Ningbo Lishe International Airport,CN,Ningbo,NGB
+39.78279877,116.3880005,LAR,Beijing Nanyuan Airport,CN,Beijing,NAY
+22.60829926,108.1719971,LAR,Nanning Wuxu Airport,CN,Nanning,NNG
+31.74200058,118.8619995,LAR,Nanjing Lukou Airport,CN,Nanjing,NKG
+36.85720062,117.2160034,LAR,Yaoqiang Airport,CN,Jinan,TNA
+40.851398,111.823997,LAR,Baita International Airport,CN,Hohhot,HET
+45.62340164,126.25,LAR,Taiping Airport,CN,Harbin,HRB
+30.22949982,120.4339981,LAR,Hangzhou Xiaoshan International Airport,CN,Hangzhou,HGH
+19.93490028,110.4589996,LAR,Haikou Meilan International Airport,CN,Haikou,HAK
+26.53849983,106.8010025,LAR,Longdongbao Airport,CN,Guiyang,KWE
+25.21809959,110.0390015,LAR,Guilin Liangjiang International Airport,CN,Guilin City,KWL
+23.39240074,113.2990036,LAR,Guangzhou Baiyun International Airport,CN,Guangzhou,CAN
+25.93510056,119.663002,LAR,Fuzhou Changle International Airport,CN,Fuzhou,FOC
+38.96569824,121.5390015,LAR,Zhoushuizi Airport,CN,Dalian,DLC
+29.71920013,106.6419983,LAR,Chongqing Jiangbei International Airport,CN,Chongqing,CKG
+30.57850075,103.9469986,LAR,Chengdu Shuangliu International Airport,CN,Chengdu,CTU
+28.18919945,113.2200012,LAR,Changsha Huanghua International Airport,CN,Changsha,CSX
+40.08010101,116.5849991,LAR,Beijing Capital International Airport,CN,Beijing,PEK
+7.06888,-70.7369,MED,Santiago Perez Airport,CO,Arauca,AUC
+4.27624,-74.7967,MED,Santiago Vila Airport,CO,Girardot,GIR
+3.54322,-76.3816,MED,Alfonso Bonilla Aragon International Airport,CO,Cali,CLO
+12.5836,-81.7112,MED,Gustavo Rojas Pinilla International Airport,CO,San Andreas,ADZ
+1.58919,-75.5644,MED,Gustavo Artunduaga Paredes Airport,CO,Florencia,FLA
+4.70159,-74.1469,LAR,El Dorado International Airport,CO,Bogota,BOG
+9.163949,-83.330171,MED,Buenos Aires Airport,CR,Punta Arenas,BAI
+9.957050323,-84.13980103,MED,Tobias Bolanos International Airport,CR,San Jose,SYQ
+9.993860245,-84.20880127,MED,Juan Santamaria International Airport,CR,San Jose,SJO
+19.90649986,-75.20709991,MED,Leeward Point Field,CU,Guantanamo Bay Naval Station,NBW
+21.83469963,-82.78379822,MED,Rafael Cabrera Airport,CU,Nueva Gerona,GER
+20.28809929,-77.08920288,MED,Sierra Maestra Airport,CU,Manzanillo,MZO
+23.03280067,-82.57939911,MED,Playa Baracoa Airport,CU,Havana,UPB
+20.08530045,-75.15830231,MED,Mariana Grajales Airport,CU,Guantanamo,GAO
+19.96980095,-75.83540344,MED,Antonio Maceo International Airport,CU,Santiago,SCU
+22.49220085,-79.94360352,MED,Abel Santamaria Airport,CU,Santa Clara,SNU
+22.98920059,-82.40910339,LAR,Jose Martina­ International Airport,CU,Havana,HAV
+35.15470123,33.49610138,MED,Ercan International Airport,CY,Nicosia,ECN
+50.1008,14.26,LAR,Vaiclav Havel Airport Prague,CZ,Prague,PRG
+52.319199,10.5561,MED,Braunschweig-Wolfsburg Airport,DE,Braunschweig,BWE
+48.425278,10.931667,MED,Augsburg Airport,DE,Augsburg,AGB
+50.04980087,8.325400352,MED,Wiesbaden Army Airfield,DE,Wiesbaden,WIE
+53.87870026,14.15229988,MED,Heringsdorf Airport,DE,Heringsdorf,HDF
+53.53527832,9.83555603,MED,Hamburg-Finkenwerder Airport,DE,Hamburg,XFW
+49.9487,7.26389,MED,Frankfurt-Hahn Airport,DE,Frankfurt am Main,HHN
+49.959999,8.645833,MED,Frankfurt-Egelsbach Airport,DE,Frankfurt am Main,QEF
+49.985001,11.64,MED,Bayreuth Airport,DE,Bayreuth,BYU
+50.981945,12.506389,MED,Altenburg-Nobitz Airport,DE,Altenburg,AOC
+48.353802,11.7861,LAR,Munich Airport,DE,Munich,MUC
+52.5597,13.2877,LAR,Berlin-Tegel Airport,DE,Berlin,TXL
+48.68989944,9.221960068,LAR,Stuttgart Airport,DE,Stuttgart,STR
+49.498699,11.078056,LAR,Nuremberg Airport,DE,Nuremberg,NUE
+51.423889,12.236389,LAR,Leipzig/Halle Airport,DE,Leipzig,LEJ
+52.46110153,9.685079575,LAR,Hannover Airport,DE,Hannover,HAJ
+53.63040161,9.988229752,LAR,Hamburg Airport,DE,Hamburg,HAM
+50.033333,8.570556,LAR,Frankfurt am Main Airport,DE,Frankfurt am Main,FRA
+51.13280106,13.76720047,LAR,Dresden Airport,DE,Dresden,DRS
+51.5182991,7.612239838,LAR,Dortmund Airport,DE,Dortmund,DTM
+50.86589813,7.142739773,LAR,Cologne Bonn Airport,DE,Cologne,CGN
+53.04750061,8.786669731,LAR,Bremen Airport,DE,Bremen,BRE
+51.289501,6.76678,LAR,Dasseldorf Airport,DE,Dasseldorf,DUS
+48.77939987,8.080499649,LAR,Karlsruhe Baden-Baden Airport,DE,Baden-Baden,FKB
+52.380001,13.5225,LAR,Berlin-Schonefeld Airport,DE,Berlin,SXF
+55.58560181,12.13140011,MED,Copenhagen Roskilde Airport,DK,Copenhagen,RKE
+55.61790085,12.65600014,LAR,Copenhagen Kastrup Airport,DK,Copenhagen,CPH
+15.547,-61.299999,MED,Douglas-Charles Airport,DM,Marigot,DOM
+15.33670044,-61.39220047,MED,Canefield Airport,DM,Canefield,DCF
+18.57250023,-69.98560333,MED,La Isabela International Airport,DO,La Isabela,JBQ
+19.40609932,-70.60469818,MED,Cibao International Airport,DO,Santiago,STI
+18.42970085,-69.66889954,LAR,Las Amarricas International Airport,DO,Santo Domingo,SDQ
+36.69100189,3.215409994,LAR,Houari Boumediene Airport,DZ,Algiers,ALG
+-0.129166667,-78.3575,LAR,Mariscal Sucre International Airport,EC,Quito,UIO
+59.41329956,24.83279991,LAR,Lennart Meri Tallinn Airport,EE,Tallinn,TLL
+31.068559,34.129629,MED,El Gora Airport,EG,El Gora,EGH
+27.97730064,34.39500046,MED,Sharm El Sheikh International Airport,EG,Sharm el-Sheikh,SSH
+31.3253994,27.22170067,MED,Mersa Matruh Airport,EG,Mersa Matruh,MUH
+25.5571003,34.58369827,MED,Marsa Alam International Airport,EG,Marsa Alam,RMF
+31.18390083,29.94890022,MED,El Nouzha Airport,EG,Alexandria,ALY
+30.91769981,29.69639969,MED,Borg El Arab International Airport,EG,Alexandria,HBE
+30.12190056,31.40559959,LAR,Cairo International Airport,EG,Cairo,CAI
+15.29189968,38.91070175,MED,Asmara International Airport,ER,Asmara,ASM
+39.4893,-0.481625,MED,Valencia Airport,ES,Valencia,VLC
+40.95209885,-5.501989841,MED,Salamanca Airport,ES,Salamanca,SLM
+37.77500153,-0.812389016,MED,San Javier Airport,ES,San Javier,MJV
+35.27980042,-2.956259966,MED,Melilla Airport,ES,Melilla,MLN
+37.18870163,-3.777359962,MED,Federico Garcia Lorca Airport,ES,Granada,GRX
+36.74459839,-6.060110092,MED,Jerez Airport,ES,Jerez de la Forntera,XRY
+38.8728981,1.37311995,MED,Ibiza Airport,ES,Ibiza,IBZ
+27.81480026,-17.88710022,MED,Hierro Airport,ES,El Hierro Island,VDE
+40.370701,-3.78514,MED,Cuatro Vientos Airport,ES,Madrid,ECV
+42.357601,-3.62076,MED,Burgos Airport,ES,Burgos,RGS
+28.626499,-17.7556,LAR,La Palma Airport,ES,Sta Cruz de la Palma La Palma Island,SPC
+27.93190002,-15.38659954,LAR,Gran Canaria Airport,ES,Gran Canaria Island,LPA
+41.2971,2.07846,LAR,Barcelona International Airport,ES,Barcelona,BCN
+40.471926,-3.56264,LAR,Adolfo Sua¡rez Madrida Barajas Airport,ES,Madrid,MAD
+8.977890015,38.79930115,LAR,Addis Ababa Bole International Airport,ET,Addis Ababa,ADD
+60.25460052,25.0428009,MED,Helsinki Malmi Airport,FI,Helsinki,HEM
+60.31719971,24.9633007,LAR,Helsinki Vantaa Airport,FI,Helsinki,HEL
+-51.68569946,-57.77759933,MED,Port Stanley Airport,FK,Stanley,PSY
+47.268902,5.09,MED,Dijon-Bourgogne Airport,FR,Dijon/Longvic,DIJ
+44.9216,4.9699,MED,Valence-Chabeuil Airport,FR,Valence/Chabeuil,VAF
+48.5378,-2.85444,MED,Saint-Brieuc-Armor Airport,FR,Saint-Brieuc/Armor,SBK
+49.096667,2.040833,MED,Pontoise - Cormeilles-en-Vexin Airport,FR,Cormeilles-en-Vexin,POX
+43.542,6.95348,MED,Cannes-Mandelieu Airport,FR,Cannes/Mandelieu,CEQ
+47.43220139,0.727605999,MED,Tours-Val-de-Loire Airport,FR,Tours/Val de Loire (Loire Valley),TUF
+48.53829956,7.628230095,MED,Strasbourg Airport,FR,Strasbourg,SXB
+48.06949997,-1.734789968,MED,Rennes-Saint-Jacques Airport,FR,Rennes/Saint-Jacques,RNS
+47.15319824,-1.610730052,MED,Nantes Atlantique Airport,FR,Nantes,NTE
+48.98210144,6.251319885,MED,Metz-Nancy-Lorraine Airport,FR,Metz / Nancy,ETZ
+45.8628006,1.179440022,MED,Limoges Airport,FR,Limoges/Bellegarde,LIG
+50.563332,3.086886,MED,Lille-Lesquin Airport,FR,Lille/Lesquin,LIL
+45.08069992,3.7628901,MED,Le Puy-Loudes Airport,FR,Le Puy/Loudes,LPY
+49.53390121,0.088055998,MED,Le Havre Octeville Airport,FR,Le Havre/Octeville,LEH
+48.9693985,2.441390038,MED,Paris-Le Bourget Airport,FR,Paris,LBG
+49.36529922,0.154305995,MED,Deauville-Saint-Gatien Airport,FR,Deauville,DOL
+45.7867012,3.169169903,MED,Clermont-Ferrand Auvergne Airport,FR,Clermont-Ferrand/Auvergne,CFE
+43.2159996,2.306319952,MED,Carcassonne Airport,FR,Carcassonne/Salvaza,CCF
+42.5244444,8.7930556,MED,Calvi-Sainte-Catherine Airport,FR,Calvi/Sainte-Catherine,CLY
+43.4683333,-1.5311111,MED,Biarritz-Anglet-Bayonne Airport,FR,Biarritz/Anglet/Bayonne,BIQ
+42.55270004,9.483730316,MED,Bastia-Poretta Airport,FR,Bastia/Poretta,BIA
+43.90729904,4.901830196,MED,Avignon-Caumont Airport,FR,Avignon/Caumont,AVN
+44.89139938,2.421940088,MED,Aurillac Airport,FR,Aurillac,AUR
+45.9308333,6.1063889,MED,Annecy-Haute-Savoie-Mont Blanc Airport,FR,Annecy/Meythet,NCY
+44.17470169,0.590556026,MED,Agen-La Garenne Airport,FR,Agen/La Garenne,AGF
+49.012798,2.55,LAR,Charles de Gaulle International Airport,FR,Paris,CDG
+43.629101,1.36382,LAR,Toulouse-Blagnac Airport,FR,Toulouse/Blagnac,TLS
+48.7233333,2.3794444,LAR,Paris-Orly Airport,FR,Paris,ORY
+43.43927192,5.221424103,LAR,Marseille Provence Airport,FR,Marseille,MRS
+47.59,7.5291667,LAR,EuroAirport Basel-Mulhouse-Freiburg Airport,FR,Mulhouse,BSL
+45.725556,5.081111,LAR,Lyon Saint-Exupary Airport,FR,Lyon,LYS
+43.65840149,7.215869904,LAR,Nice-Ca´te d'Azur Airport,FR,Nice,NCE
+44.82830048,-0.715556026,LAR,Bordeaux-Mrignac Airport,FR,Bordeaux/Macrignac,BOD
+0.458600014,9.412280083,MED,Libreville Leon M'ba International Airport,GA,Libreville,LBV
+49.91329956,-6.291669846,MED,St. Mary's Airport,GB,St. Mary's,ISC
+53.745098,-2.88306,MED,Warton Airport,GB,Warton,WRT
+56.49919891,-6.869170189,MED,Tiree Airport,GB,Balemartine,TRE
+51.6053009,-4.067830086,MED,Swansea Airport,GB,Swansea,SWS
+50.835602,-0.297222,MED,Shoreham Airport,GB,Brighton,ESH
+52.35720062,-0.107832998,MED,RAF Wyton,GB,St. Ives,QUY
+51.5530014,-0.418166995,MED,RAF Northolt,GB,London,NHT
+52.91999817,-1.079169989,MED,Nottingham Airport,GB,Nottingham,NQT
+51.505299,0.055278,MED,London City Airport,GB,London,LCY
+51.3307991,0.032499999,MED,London Biggin Hill Airport,GB,London,BQH
+50.95610046,0.939167023,MED,Lydd Airport,GB,Lydd Ashford,LYX
+58.95780182,-2.904999971,MED,Kirkwall Airport,GB,Orkney Islands,KOI
+55.68190002,-6.256669998,MED,Islay Airport,GB,Port Ellen,ILY
+53.57440186,-0.350832999,MED,Humberside Airport,GB,Grimsby,HUY
+51.89419937,-2.167220116,MED,Gloucestershire Airport,GB,Staverton,GLO
+55.50939941,-4.586669922,MED,Glasgow Prestwick Airport,GB,Glasgow,PIK
+51.2757988,-0.776332974,MED,Farnborough Airport,GB,Farnborough,FAB
+54.50920105,-1.429409981,MED,Durham Tees Valley Airport,GB,Durham,MME
+52.36970139,-1.479719996,MED,Coventry Airport,GB,Coventry,CVT
+54.9375,-2.809170008,MED,Carlisle Airport,GB,Carlisle,CAX
+52.205002,0.175,MED,Cambridge Airport,GB,Cambridge,CBG
+51.4706,-0.461941,LAR,London Heathrow Airport,GB,London,LHR
+51.148102,-0.190278,LAR,London Gatwick Airport,GB,London,LGW
+50.95029831,-1.35679996,LAR,Southampton Airport,GB,Southampton,SOU
+55.03749847,-1.691669941,LAR,Newcastle Airport,GB,Newcastle,NCL
+53.35369873,-2.274950027,LAR,Manchester Airport,GB,Manchester,MAN
+51.88499832,0.234999999,LAR,London Stansted Airport,GB,London,STN
+51.87469864,-0.368333012,LAR,London Luton Airport,GB,London,LTN
+53.33359909,-2.849720001,LAR,Liverpool John Lennon Airport,GB,Liverpool,LPL
+53.86589813,-1.660570025,LAR,Leeds Bradford Airport,GB,Leeds,LBA
+55.87189865,-4.433060169,LAR,Glasgow International Airport,GB,Glasgow,GLA
+54.61809921,-5.872499943,LAR,George Best Belfast City Airport,GB,Belfast,BHD
+55.95000076,-3.372499943,LAR,Edinburgh Airport,GB,Edinburgh,EDI
+52.83110046,-1.328060031,LAR,East Midlands Airport,GB,Nottingham,EMA
+51.39670181,-3.343329906,LAR,Cardiff International Airport,GB,Cardiff,CWL
+51.382702,-2.71909,LAR,Bristol Airport,GB,Bristol,BRS
+52.45389938,-1.748029947,LAR,Birmingham International Airport,GB,Birmingham,BHX
+54.65750122,-6.215829849,LAR,Belfast International Airport,GB,Belfast,BFS
+12.00419998,-61.78620148,MED,Point Salines International Airport,GD,Saint George's,GND
+41.6692009,44.95470047,LAR,Tbilisi International Airport,GE,Tbilisi,TBS
+4.819809914,-52.36040115,MED,Cayenne-Rochambeau Airport,GF,Cayenne / Rochambeau,CAY
+49.43500137,-2.601969957,MED,Guernsey Airport,GG,Saint Peter Port,GCI
+49.706104,-2.21472,MED,Alderney Airport,GG,Saint Anne,ACI
+36.15119934,-5.34965992,MED,Gibraltar Airport,GI,Gibraltar,GIB
+64.19090271,-51.67810059,MED,Godthaab / Nuuk Airport,GL,Nuuk,GOH
+13.3380003,-16.6522007,MED,Banjul International Airport,GM,Banjul,BJL
+9.57689,-13.612,MED,Conakry International Airport,GN,Conakry,CKY
+16.265301,-61.531799,LAR,Pointe-a -Pitre Le Raizet,GP,Pointe-a -Pitre,PTP
+3.755270004,8.708720207,MED,Malabo Airport,GQ,Malabo,SSG
+36.40539932,28.08620071,MED,Diagoras Airport,GR,Rodes Island,RHO
+37.68999863,26.9116993,MED,Samos Airport,GR,Samos Island,SMI
+37.43510056,25.34810066,MED,Mikonos Airport,GR,Mykonos Island,JMK
+40.85589981,25.95630074,MED,Dimokritos Airport,GR,Alexandroupolis,AXD
+37.93640137,23.94449997,LAR,Eleftherios Venizelos International Airport,GR,Athens,ATH
+14.5833,-90.527496,LAR,La Aurora Airport,GT,Guatemala City,GUA
+11.89480019,-15.65369987,MED,Osvaldo Vieira International Airport,GW,Bissau,OXB
+6.498549938,-58.2541008,MED,Cheddi Jagan International Airport,GY,Georgetown,GEO
+22.308901,113.915001,LAR,Hong Kong International Airport,HK,Hong Kong,HKG
+42.56140137,18.26819992,MED,Dubrovnik Airport,HR,Dubrovnik,DBV
+45.74290085,16.06879997,LAR,Zagreb Airport,HR,Zagreb,ZAG
+18.57999992,-72.29250336,MED,Toussaint Louverture International Airport,HT,Port-au-Prince,PAP
+19.93359947,-72.84860229,MED,Port-de-Paix Airport,HT,Port-de-Paix,PAX
+47.42976,19.261093,LAR,Budapest Liszt Ferenc International Airport,HU,Budapest,BUD
+-6.266610146,106.8909988,MED,Halim Perdanakusuma International Airport,ID,Jakarta,HLP
+-6.12556982,106.6559982,LAR,Soekarno-Hatta International Airport,ID,Jakarta,CGK
+52.18719864,-7.086959839,MED,Waterford Airport,IE,Waterford,WAT
+53.91030121,-8.818490028,MED,Ireland West Knock Airport,IE,Charleston,NOC
+53.421299,-6.27007,LAR,Dublin Airport,IE,Dublin,DUB
+32.11470032,34.78219986,MED,Sde Dov Airport,IL,Tel Aviv,SDV
+32.01139832,34.88669968,LAR,Ben Gurion International Airport,IL,Tel Aviv,TLV
+54.08330154,-4.623889923,MED,Isle of Man Airport,IM,Castletown,IOM
+22.8132,86.1688,MED,Sonari Airport,IN,Jamshedpur,IXW
+11.968,79.812,MED,Pondicherry Airport,IN,Pondicherry,PNY
+32.233611,75.634444,MED,Pathankot Airport,IN,Pathankot,IXP
+20.119101,73.912903,MED,Nashik Airport,IN,Nasik,ISK
+26.601473,74.814147,MED,Kishangarh Airport,IN,Ajmer,KQH
+23.6225,87.243,MED,Kazi Nazrul Islam Airport,IN,Durgapur,RDP
+26.404301,80.410103,MED,Kanpur Airport,IN,Kanpur,KNU
+26.8242,75.812202,MED,Jaipur International Airport,IN,Jaipur,JAI
+21.9884,82.111,MED,Bilaspur Airport,IN,Bilaspur,PAB
+11.64120007,92.72969818,MED,Vir Savarkar International Airport,IN,Port Blair,IXZ
+25.45240021,82.85929871,MED,Lal Bahadur Shastri Airport,IN,Varanasi,VNS
+22.336201,73.226303,MED,Vadodara Airport,IN,Vadodara,BDQ
+24.61770058,73.89610291,MED,Maharana Pratap Airport,IN,Udaipur,UDR
+10.76539993,78.70970154,MED,Tiruchirapally Civil Airport Airport,IN,Tiruchirappally,TRZ
+33.98709869,74.77420044,MED,Sheikh ul Alam Airport,IN,Srinagar,SXR
+24.91290092,92.97869873,MED,Silchar Airport,IN,Silchar,IXS
+25.70359993,91.97869873,MED,Shillong Airport,IN,Shillong,SHL
+23.07719994,72.63469696,MED,Sardar Vallabhbhai Patel International Airport,IN,Ahmedabad,AMD
+22.30920029,70.77950287,MED,Rajkot Airport,IN,Rajkot,RAJ
+18.58209991,73.91970062,MED,Pune Airport,IN,Pune,PNQ
+21.64870071,69.65720367,MED,Porbandar Airport,IN,Porbandar,PBD
+19.18330002,77.3167038,MED,Nanded Airport,IN,Nanded,NDC
+12.9612999,74.89009857,MED,Mangalore International Airport,IN,Mangalore,IXE
+9.83450985,78.09339905,MED,Madurai Airport,IN,Madurai,IXM
+26.10610008,91.58589935,MED,Lokpriya Gopinath Bordoloi International Airport,IN,Guwahati,GAU
+25.59129906,85.08799744,MED,Lok Nayak Jayaprakash Airport,IN,Patna,PAT
+23.84059906,92.61969757,MED,Lengpui Airport,IN,Aizawl,AJL
+34.13589859,77.54650116,MED,Leh Kushok Bakula Rimpochee Airport,IN,Leh,IXL
+25.16020012,75.84559631,MED,Kota Airport,IN,Kota,KTU
+30.189699,78.180298,MED,Dehradun Airport,IN,Dehradun,DED
+26.25110054,73.04889679,MED,Jodhpur Airport,IN,Jodhpur,JDH
+32.68909836,74.83740234,MED,Jammu Airport,IN,Jammu,IXJ
+24.76000023,93.896698,MED,Imphal Airport,IN,Imphal,IMF
+26.29330063,78.22779846,MED,Gwalior Airport,IN,Gwalior,GWL
+21.09219933,79.04720306,MED,Dr. Babasaheb Ambedkar International Airport,IN,Naqpur,NAG
+22.72179985,75.80110168,MED,Devi Ahilyabai Holkar Airport,IN,Indore,IDR
+11.02999973,77.04340363,MED,Coimbatore International Airport,IN,Coimbatore,CJB
+30.67350006,76.78849792,MED,Chandigarh Airport,IN,Chandigarh,IXC
+23.31430054,85.32170105,MED,Birsa Munda Airport,IN,Ranchi,IXR
+20.24440002,85.81780243,MED,Biju Patnaik Airport,IN,Bhubaneswar,BBI
+23.28779984,69.67019653,MED,Bhuj Airport,IN,Bhuj,BHJ
+23.28750038,77.33740234,MED,Raja Bhoj International Airport,IN,Bhopal,BHO
+17.4531002,78.46759796,MED,Begumpet Airport,IN,Hyderabad,BPM
+19.86269951,75.39810181,MED,Aurangabad Airport,IN,Aurangabad,IXU
+26.76059914,80.88929749,MED,Chaudhary Charan Singh International Airport,IN,Lucknow,LKO
+25.44009972,81.73390198,MED,Allahabad Airport,IN,Allahabad,IXD
+23.88699913,91.24040222,MED,Agartala Airport,IN,Agartala,IXA
+13.1979,77.706299,LAR,Kempegowda International Airport,IN,Bangalore,BLR
+8.48211956,76.92009735,LAR,Trivandrum International Airport,IN,Thiruvananthapuram,TRV
+31.70960045,74.79730225,LAR,Sri Guru Ram Dass Jee International Airport,IN,Amritsar,ATQ
+17.23131752,78.42985535,LAR,Rajiv Gandhi International Airport,IN,Hyderabad,HYD
+22.65469933,88.44670105,LAR,Netaji Subhash Chandra Bose International Airport,IN,Kolkata,CCU
+28.5665,77.103104,LAR,Indira Gandhi International Airport,IN,New Delhi,DEL
+15.38080025,73.83139801,LAR,Dabolim Airport,IN,Vasco da Gama,GOI
+10.152,76.401901,LAR,Cochin International Airport,IN,Kochi,COK
+19.08869934,72.86789703,LAR,Chhatrapati Shivaji International Airport,IN,Mumbai,BOM
+12.99000549,80.16929626,LAR,Chennai International Airport,IN,Chennai,MAA
+11.13679981,75.95529938,LAR,Calicut International Airport,IN,Calicut,CCJ
+-7.31327,72.411102,MED,Diego Garcia Naval Support Facility,IO,Diego Garcia,NKW
+33.26250076,44.23460007,LAR,Baghdad International Airport,IQ,Baghdad,BGW
+35.68920135,51.31340027,LAR,Mehrabad International Airport,IR,Tehran,THR
+35.41609955,51.15219879,LAR,Imam Khomeini International Airport,IR,Tehran,IKA
+64.12999725,-21.94059944,MED,Reykjavik Airport,IS,Reykjavik,RKV
+63.98500061,-22.60560036,LAR,Keflavik International Airport,IS,Reykjavik,KEF
+42.7603,10.2394,MED,Marina Di Campo Airport,IT,Marina  Di Campo,EBA
+37.9114,12.488,MED,Vincenzo Florio Airport Trapani-Birgi,IT,Trapani (TP),TPS
+40.620399,14.9113,MED,Salerno Costa d'Amalfi Airport,IT,Salerno,QSR
+43.256302,11.255,MED,Siena-Ampugnano Airport,IT,Siena,SAY
+45.395699,10.8885,LAR,Verona Villafranca Airport,IT,Verona,VRN
+45.505299,12.3519,LAR,Venice Marco Polo Airport,IT,Venice,VCE
+43.683899,10.3927,LAR,Pisa International Airport,IT,Pisa,PSA
+45.6306,8.72811,LAR,Malpensa International Airport,IT,Milan,MXP
+45.445099,9.27674,LAR,Milano Linate Airport,IT,Milan,LIN
+41.8002778,12.2388889,LAR,Leonardo da Vinci“Fiumicino Airport,IT,Rome,FCO
+37.466801,15.0664,LAR,Catania-Fontanarossa Airport,IT,Catania,CTA
+38.175999,13.091,LAR,Falconea“Borsellino Airport,IT,Palermo,PMO
+39.251499,9.05428,LAR,Cagliari Elmas Airport,IT,Cagliari,CAG
+41.7994,12.5949,LAR,Ciampinoa“G. B. Pastine International Airport,IT,Rome,CIA
+49.207901,-2.195509911,MED,Jersey Airport,JE,Saint Helier,JER
+17.93569946,-76.78749847,LAR,Norman Manley International Airport,JM,Kingston,KIN
+31.97270012,35.99160004,MED,Amman-Marka International Airport,JO,Amman,ADJ
+31.72260094,35.99319839,LAR,Queen Alia International Airport,JO,Amman,AMM
+24.396389,124.245,MED,New Ishigaki Airport,JP,Ishigaki,ISG
+42.07170105,139.4329987,MED,Okushiri Airport,JP,Okushiri Island,OIR
+36.18109894,133.3249969,MED,Oki Airport,JP,Okinoshima,OKI
+34.75690079,133.8549957,MED,Okayama Airport,JP,Okayama City,OKJ
+40.19189835,140.3710022,MED,Odate Noshiro Airport,JP,Odate,ONJ
+30.60510063,130.9909973,MED,New Tanegashima Airport,JP,Tanegashima,TNE
+32.91690063,129.9140015,MED,Nagasaki Airport,JP,Nagasaki,NGS
+31.87719917,131.4490051,MED,Miyazaki Airport,JP,Miyazaki,KMI
+24.78280067,125.2949982,MED,Miyako Airport,JP,Miyako City,MMY
+34.07360077,139.5599976,MED,Miyakejima Airport,JP,Miyakejima,MYE
+33.82720184,132.6999969,MED,Matsuyama Airport,JP,Matsuyama,MYJ
+36.16680145,137.9230042,MED,Matsumoto Airport,JP,Matsumoto,MMJ
+36.39459991,136.4069977,MED,Komatsu Airport,JP,Kanazawa,KMQ
+34.67639923,131.7899933,MED,Iwami Airport,JP,Masuda,IWJ
+33.74900055,129.7850037,MED,Iki Airport,JP,Iki,IKI
+34.43610001,132.9190063,MED,Hiroshima Airport,JP,Hiroshima,HIJ
+41.77000046,140.8220062,MED,Hakodate Airport,JP,Hakodate,HKD
+33.11500168,139.7859955,MED,Hachijojima Airport,JP,Hachijojima,HAC
+37.22740173,140.4309998,MED,Fukushima Airport,JP,Sukagawa,FKS
+39.61560059,140.2189941,MED,Akita Airport,JP,Akita,AXT
+35.552299,139.779999,LAR,Tokyo Haneda International Airport,JP,Tokyo,HND
+34.78549957,135.4380035,LAR,Osaka International Airport,JP,Osaka,ITM
+42.77519989,141.6920013,LAR,New Chitose Airport,JP,Chitose / Tomakomai,CTS
+35.76470184,140.3860016,LAR,Narita International Airport,JP,Tokyo,NRT
+34.4272995,135.2440033,LAR,Kansai International Airport,JP,Osaka,KIX
+31.80340004,130.7189941,LAR,Kagoshima Airport,JP,Kagoshima,KOJ
+33.58589935,130.451004,LAR,Fukuoka Airport,JP,Fukuoka,FUK
+-1.321720004,36.81480026,MED,Nairobi Wilson Airport,KE,Nairobi,WIL
+-4.034830093,39.59420013,LAR,Mombasa Moi International Airport,KE,Mombasa,MBA
+-1.319239974,36.92779922,LAR,Jomo Kenyatta International Airport,KE,Nairobi,NBO
+43.06129837,74.4776001,LAR,Manas International Airport,KG,Bishkek,FRU
+13.53190041,106.0149994,MED,Stung Treng Airport,KH,Stung Treng,TNX
+11.54660034,104.8440018,LAR,Phnom Penh International Airport,KH,Phnom Penh,PNH
+1.381639957,173.1470032,MED,Bonriki International Airport,KI,Tarawa,TRW
+-11.5337,43.2719,MED,Prince Said Ibrahim International Airport,KM,Moroni,HAH
+17.31119919,-62.71870041,MED,Robert L. Bradshaw International Airport,KN,Basseterre,SKB
+39.224098,125.669998,MED,Pyongyang Sunan International Airport,KP,Pyongyang,FNJ
+41.428538,129.647555,MED,Orang Airport,KP,Hoemun-ri,RGO
+36.630373,128.34971,MED,Yecheon Airbase,KR,Yecheon-ri,YEC
+33.39960098,126.711998,MED,Jeongseok Airport,KR,Jeju Island,JDG
+33.51129913,126.4929962,LAR,Jeju International Airport,KR,Jeju City,CJU
+37.46910095,126.4509964,LAR,Incheon International Airport,KR,Seoul,ICN
+37.5583,126.791,LAR,Gimpo International Airport,KR,Seoul,GMP
+35.17950058,128.9380035,LAR,Gimhae International Airport,KR,Busan,PUS
+29.22660065,47.96889877,LAR,Kuwait International Airport,KW,Kuwait City,KWI
+19.68700027,-79.88279724,MED,Gerrard Smith International Airport,KY,Cayman Brac,CYB
+19.660161,-80.088826,MED,Edward Bodden Airfield,KY,Little Cayman,LYB
+19.2928009,-81.35769653,LAR,Owen Roberts International Airport,KY,Georgetown,GCM
+49.67079926,73.33439636,LAR,Sary-Arka Airport,KZ,Karaganda,KGF
+51.02220154,71.46690369,LAR,Astana International Airport,KZ,Astana,TSE
+43.35210037,77.04049683,LAR,Almaty Airport,KZ,Almaty,ALA
+17.98830032,102.5630035,MED,Wattay International Airport,LA,Vientiane,VTE
+33.82089996,35.48839951,LAR,Beirut Rafic Hariri International Airport,LB,Beirut,BEY
+14.0202,-60.992901,MED,George F. L. Charles Airport,LC,Castries,SLU
+6.821990013,79.88619995,MED,Colombo Ratmalana Airport,LK,Colombo,RML
+5.99368,80.32029724,MED,Koggala Airport,LK,Galle,KCT
+7.180759907,79.88410187,LAR,Bandaranaike International Colombo Airport,LK,Colombo,CMB
+6.289060116,-10.75870037,MED,Spriggs Payne Airport,LR,Monrovia,MLW
+6.23379,-10.3623,LAR,Roberts International Airport,LR,Monrovia,ROB
+-29.46229935,27.55249977,MED,Moshoeshoe I International Airport,LS,Maseru,MSU
+54.634102,25.285801,LAR,Vilnius International Airport,LT,Vilnius,VNO
+49.6233333,6.2044444,LAR,Luxembourg-Findel International Airport,LU,Luxembourg,LUX
+56.92359924,23.97109985,LAR,Riga International Airport,LV,Riga,RIX
+32.89410019,13.27600002,MED,Mitiga Airport,LY,Tripoli,MJI
+32.09680176,20.26950073,MED,Benina International Airport,LY,Benghazi,BEN
+32.66350174,13.1590004,LAR,Tripoli International Airport,LY,Tripoli,TIP
+33.36750031,-7.589970112,LAR,Mohammed V International Airport,MA,Casablanca,CMN
+42.359402,19.2519,LAR,Podgorica Airport,ME,Podgorica,TGD
+-18.7969,47.478802,LAR,Ivato Airport,MG,Antananarivo,TNR
+7.064760208,171.2720032,MED,Marshall Islands International Airport,MH,Majuro Atoll,MAJ
+41.961601,21.621401,LAR,Skopje Alexander the Great Airport,MK,Skopje,SKP
+16.73049927,-3.007580042,MED,Timbuktu Airport,ML,Timbuktu,TOM
+12.5335,-7.94994,LAR,Modibo Keita International Airport,ML,Bamako,BKO
+16.90730095,96.1332016,LAR,Yangon International Airport,MM,Yangon,RGN
+21.70219994,95.97789764,LAR,Mandalay International Airport,MM,Mandalay,MDL
+47.843102,106.766998,LAR,Chinggis Khaan International Airport,MN,Ulan Bator,ULN
+22.149599,113.592003,LAR,Macau International Airport,MO,Macau,MFM
+15.119,145.729004,MED,Saipan International Airport,MP,Saipan Island,SPN
+18.31,-15.9697222,LAR,Nouakchottâ€“Oumtounsy International Airport,MR,Nouakchott,NKC
+16.79140091,-62.19329834,MED,John A. Osborne Airport,MS,Gerald's Park,MNI
+35.857498,14.4775,LAR,Malta International Airport,MT,Valletta,MLA
+-19.7577,63.361,MED,Sir Charles Gaetan Duval Airport,MU,Port Mathurin,RRG
+-20.430201,57.683601,LAR,Sir Seewoosagur Ramgoolam International Airport,MU,Port Louis,MRU
+3.470555556,72.83583333,MED,Villa Airport,MV,Maamigili,VAM
+-0.693342,73.155602,MED,Gan International Airport,MV,Gan,GAN
+-13.7894001,33.78099823,MED,Lilongwe International Airport,MW,Lilongwe,LLW
+28.70289993,-105.9649963,MED,General Roberto Fierro Villalobos International Airport,MX,Chihuahua,CUU
+20.6413002,-88.44619751,MED,Chichen Itza International Airport,MX,Chichen Itza,CZA
+19.4363,-99.072098,LAR,Licenciado Benito Juarez International Airport,MX,Mexico City,MEX
+23.15180016,-109.7210007,LAR,Los Cabos International Airport,MX,San Jose del Cabo,SJD
+25.7784996,-100.1070023,LAR,General Mariano Escobedo International Airport,MX,Monterrey,MTY
+29.09589958,-111.0479965,LAR,General Ignacio P. Garcia International Airport,MX,Hermosillo,HMO
+20.68009949,-105.2539978,LAR,Licenciado Gustavo Da­az Ordaz International Airport,MX,Puerto Vallarta,PVR
+16.75709915,-99.7539978,LAR,General Juan N Alvarez International Airport,MX,Acapulco,ACA
+2.745579958,101.7099991,LAR,Kuala Lumpur International Airport,MY,Kuala Lumpur,KUL
+-25.920799,32.572601,LAR,Maputo Airport,MZ,Maputo,MPM
+-22.61219978,17.08040047,MED,Eros Airport,NA,Windhoek,ERS
+-22.4799,17.4709,LAR,Hosea Kutako International Airport,NA,Windhoek,WDH
+13.4815,2.18361,LAR,Diori Hamani International Airport,NE,Niamey,NIM
+9.006790161,7.263169765,LAR,Nnamdi Azikiwe International Airport,NG,Abuja,ABV
+6.577370167,3.321160078,LAR,Murtala Muhammed International Airport,NG,Lagos,LOS
+12.14150047,-86.16819763,MED,Augusto C. Sandino (Managua) International Airport,NI,Managua,MGA
+51.956902,4.43722,MED,Rotterdam The Hague Airport,NL,Rotterdam,RTM
+52.308601,4.76389,LAR,Amsterdam Airport Schiphol,NL,Amsterdam,AMS
+59.378817,10.785439,MED,Moss Airport Rygge,NO,Oslo,RYG
+60.19390106,11.10039997,LAR,Oslo Gardermoen Airport,NO,Oslo,OSL
+26.70879936,85.92240143,MED,Janakpur Airport,NP,Janakpur,JKR
+27.6966,85.3591,LAR,Tribhuvan International Airport,NP,Kathmandu,KTM
+-0.547458,166.919006,MED,Nauru International Airport,NR,Yaren District,INU
+-19.07903099,-169.9255981,MED,Niue International Airport,NU,Alofi,IUE
+-45.02109909,168.7389984,MED,Queenstown International Airport,NZ,Queenstown,ZQN
+-39.00859833,174.1790009,MED,New Plymouth Airport,NZ,New Plymouth,NPL
+-39.465801,176.869995,MED,Hawke's Bay Airport,NZ,Napier,NPE
+-37.86669922,175.3320007,MED,Hamilton International Airport,NZ,Hamilton,HLZ
+-45.92810059,170.197998,MED,Dunedin Airport,NZ,Dunedin,DUD
+-41.32720184,174.8049927,LAR,Wellington International Airport,NZ,Wellington,WLG
+-43.48939896,172.5319977,LAR,Christchurch International Airport,NZ,Christchurch,CHC
+-37.0080986,174.7920074,LAR,Auckland International Airport,NZ,Auckland,AKL
+23.59329987,58.28440094,LAR,Muscat International Airport,OM,Muscat,MCT
+8.085599899,-80.94529724,MED,Ruben Cantu Airport,PA,Santiago,SYP
+-13.53569984,-71.938797,LAR,Alejandro Velasco Astete International Airport,PE,Cusco,CUZ
+-17.553699,-149.606995,LAR,Faa'a International Airport,PF,Papeete,PPT
+-9.443380356,147.2200012,LAR,Port Moresby Jacksons International Airport,PG,Port Moresby,POM
+12.36149979,121.0469971,MED,San Jose Airport,PH,San Jose,SJI
+10.76599979,121.9329987,MED,Evelio Javier Airport,PH,San Jose,EUQ
+14.5086,121.019997,LAR,Ninoy Aquino International Airport,PH,Manila,MNL
+27.72200012,68.79170227,MED,Sukkur Airport,PK,Mirpur Khas,SKZ
+30.25139999,66.93779755,MED,Quetta International Airport,PK,Quetta,UET
+33.9939003,71.51460266,MED,Peshawar International Airport,PK,Peshawar,PEW
+26.2194,68.390099,MED,Shaheed Benazirabad Airport,PK,Nawabashah,WNS
+34.3390007,73.50859833,MED,Muzaffarabad Airport,PK,Muzaffarabad,MFG
+30.20319939,71.4190979,MED,Multan International Airport,PK,Multan,MUX
+27.33519936,68.14309692,MED,Moenjodaro Airport,PK,Moenjodaro,MJD
+24.9065,67.160797,MED,Jinnah International Airport,PK,Karachi,KHI
+31.36499977,72.99479675,MED,Faisalabad International Airport,PK,Faisalabad,LYP
+31.52160072,74.4036026,MED,Alama Iqbal International Airport,PK,Lahore,LHE
+32.53555679,74.3638916,LAR,Sialkot Airport,PK,Sialkot,SKT
+33.560713,72.851613,LAR,New Islamabad International Airport,PK,Islamabad,ISB
+52.451099,20.6518,LAR,Modlin Airport,PL,Warsaw,WMI
+52.16569901,20.96710014,LAR,Warsaw Chopin Airport,PL,Warsaw,WAW
+46.76290131,-56.17309952,MED,St Pierre Airport,PM,Saint-Pierre,FSP
+18.45680046,-66.09809875,MED,Fernando Luis Ribas Dominicci Airport,PR,San Juan,SIG
+18.43939972,-66.00180054,LAR,Luis Munoz Marin International Airport,PR,San Juan,SJU
+39.09220123,-28.02980042,MED,Graciosa Airport,PT,Santa Cruz da Graciosa,GRW
+39.45529938,-31.13139915,MED,Flores Airport,PT,Santa Cruz das Flores,FLW
+38.7813,-9.13592,LAR,Humberto Delgado Airport (Lisbon Portela Airport),PT,Lisbon,LIS
+7.36731,134.544236,MED,Babelthuap Airport,PW,Babelthuap Island,ROR
+-26.881224,-58.318026,MED,Carlos Miguel Gimenez Airport,PY,Pilar,PIL
+-27.370554,-56.854064,MED,Juan De Ayolas Airport,PY,Ayolas,AYO
+-25.454516,-54.842682,MED,Guarani International Airport,PY,Ciudad del Este,AGT
+25.261101,51.565102,MED,Doha International Airport,QA,Doha,DIA
+25.273056,51.608056,LAR,Hamad International Airport,QA,Doha,DOH
+-20.88710022,55.51029968,MED,Roland Garros Airport,RE,St Denis,RUN
+-21.32089996,55.42499924,MED,Pierrefonds Airport,RE,St Pierre,ZSE
+44.50320053,26.10210037,MED,BÄƒneasa International Airport,RO,Bucharest,BBU
+44.5711111,26.085,LAR,Henri CoandÄƒ International Airport,RO,Bucharest,OTP
+44.81840134,20.3090992,LAR,Belgrade Nikola Tesla Airport,RS,Belgrade,BEG
+57.91450119,56.02119827,MED,Bolshoye Savino Airport,RU,Perm,PEE
+67.48860168,63.99309921,MED,Vorkuta Airport,RU,Vorkuta,VKT
+48.78250122,44.34550095,MED,Volgograd International Airport,RU,Volgograd,VOG
+43.39899826,132.147995,MED,Vladivostok International Airport,RU,Vladivostok,VVO
+60.10329819,64.8266983,MED,Uray Airport,RU,Uray,URJ
+54.40100098,48.80270004,MED,Ulyanovsk East Airport,RU,Ulyanovsk,ULY
+54.2682991,48.22669983,MED,Ulyanovsk Baratayevka Airport,RU,Ulyanovsk,ULV
+61.8852005,34.15470123,MED,Petrozavodsk Airport,RU,Petrozavodsk,PES
+53.16790009,158.4539948,MED,Yelizovo Airport,RU,Petropavlovsk-Kamchatsky,PKC
+55.511667,37.507222,MED,Ostafyevo International Airport,RU,Moscow,OSF
+60.72060013,114.8259964,MED,Lensk Airport,RU,Lensk,ULK
+54.88999939,20.59259987,MED,Khrabrovo Airport,RU,Kaliningrad,KGD
+55.553299,38.150002,LAR,Zhukovsky International Airport,RU,Moscow,ZIA
+55.59149933,37.26150131,LAR,Vnukovo International Airport,RU,Moscow,VKO
+55.01259995,82.65070343,LAR,Tolmachevo Airport,RU,Novosibirsk,OVB
+55.972599,37.4146,LAR,Sheremetyevo International Airport,RU,Moscow,SVO
+59.8003006,30.26250076,LAR,Pulkovo Airport,RU,St. Petersburg,LED
+55.40879822,37.90629959,LAR,Domodedovo International Airport,RU,Moscow,DME
+-1.96863,30.1395,LAR,Kigali International Airport,RW,Kigali,KGL
+27.9009,45.528198,MED,King Khaled Military City Airport,SA,King Khaled Military City,KMC
+24.5534,39.705101,LAR,Prince Mohammad Bin Abdulaziz Airport,SA,Medina,MED
+24.95759964,46.69879913,LAR,King Khaled International Airport,SA,Riyadh,RUH
+21.6796,39.156502,LAR,King Abdulaziz International Airport,SA,Jeddah,JED
+-9.42800045,160.0549927,MED,Honiara International Airport,SB,Honiara,HIR
+-4.319290161,55.69139862,MED,Praslin Airport,SC,Praslin Island,PRI
+-4.67434,55.521801,LAR,Seychelles International Airport,SC,Mahe Island,SEZ
+19.43359947,37.23410034,MED,Port Sudan New International Airport,SD,Port Sudan,PZU
+15.58950043,32.55319977,LAR,Khartoum International Airport,SD,Khartoum,KRT
+57.66279984,18.34620094,MED,Visby Airport,SE,Visby,VBY
+58.78860092,16.91220093,MED,Stockholm Skavsta Airport,SE,Stockholm,NYO
+59.35440063,17.94169998,MED,Stockholm-Bromma Airport,SE,Stockholm,BMA
+59.65190125,17.91860008,LAR,Stockholm-Arlanda Airport,SE,Stockholm,ARN
+57.66279984,12.27980042,LAR,Gothenburg-Landvetter Airport,SE,Gothenburg,GOT
+1.35019,103.994003,LAR,Singapore Changi Airport,SG,Singapore,SIN
+-7.9696,-14.3937,MED,RAF Ascension Island,SH,Ascension Island,ASI
+45.47340012,13.61499977,MED,Portoroz Airport,SI,Portoroz,POW
+49.07360077,20.24110031,MED,Poprad-Tatry Airport,SK,Poprad,TAT
+8.61644,-13.1955,LAR,Lungi International Airport,SL,Freetown,FNA
+16.05080032,-16.46319962,MED,Saint Louis Airport,SN,Saint Louis,XLS
+14.67,-17.073333,LAR,Blaise Diagne International Airport,SN,Dakar,DSS
+2.01444006,45.30469894,MED,Aden Adde International Airport,SO,Mogadishu,MGQ
+5.452829838,-55.18780136,MED,Johan Adolf Pengel International Airport,SR,Zandery,PBM
+4.872010231,31.60110092,LAR,Juba International Airport,SS,Juba,JUB
+13.4409,-89.055702,LAR,Monseaor a“scar Arnulfo Romero International Airport,SV,San Salvador (San Luis Talpa),SAL
+18.04100037,-63.10889816,LAR,Princess Juliana International Airport,SX,Saint Martin,SXM
+33.41149902,36.5155983,LAR,Damascus International Airport,SY,Damascus,DAM
+-26.358611,31.716944,MED,King Mswati III International Airport,SZ,Manzini,SHO
+-26.52899933,31.30750084,MED,Matsapha Airport,SZ,Manzini,MTS
+21.77359962,-72.26589966,MED,Providenciales Airport,TC,Providenciales Island,PLS
+21.44449997,-71.14230347,MED,JAGS McCartney International Airport,TC,Cockburn Town,GDT
+12.1337,15.034,LAR,N'Djamena International Airport,TD,N'Djamena,NDJ
+9.76733017,1.091249943,MED,Niamtougou International Airport,TG,Niamtougou,LRL
+13.68109989,100.7470016,LAR,Suvarnabhumi Airport,TH,Bangkok,BKK
+13.91259956,100.6070023,LAR,Don Mueang International Airport,TH,Bangkok,DMK
+18.76679993,98.96260071,LAR,Chiang Mai International Airport,TH,Chiang Mai,CNX
+38.54330063,68.82499695,MED,Dushanbe Airport,TJ,Dushanbe,DYU
+-8.54640007,125.526001,MED,Presidente Nicolau Lobato International Airport,TL,Dili,DIL
+37.986801,58.361,LAR,Ashgabat International Airport,TM,Ashgabat,ASB
+36.85100174,10.22719955,LAR,Tunis Carthage International Airport,TN,Tunis,TUN
+-21.24119949,-175.1499939,MED,Fua'amotu International Airport,TO,Nuku'alofa,TBU
+41.275278,28.751944,LAR,Istanbul Airport,TR,Istanbul,IST
+40.89860153,29.30920029,LAR,Sabiha Gen International Airport,TR,Istanbul,SAW
+40.12810135,32.99509811,LAR,EsenboÄŸa International Airport,TR,Ankara,ESB
+40.976898,28.8146,LAR,Atatark International Airport,TR,Istanbul,ISL
+10.59539986,-61.33720016,MED,Piarco International Airport,TT,Port of Spain,POS
+11.14970016,-60.8321991,MED,Tobago-Crown Point Airport,TT,Scarborough,TAB
+-8.525,179.195999,MED,Funafuti International Airport,TV,Funafuti,FUN
+25.06940079,121.552002,MED,Taipei Songshan Airport,TW,Taipei City,TSA
+25.0777,121.233002,LAR,Taiwan Taoyuan International Airport,TW,Taipei,TPE
+-3.429409981,37.07450104,MED,Kilimanjaro International Airport,TZ,Arusha,JRO
+-6.22202,39.224899,LAR,Abeid Amani Karume International Airport,TZ,Zanzibar,ZNZ
+-6.87811,39.202599,LAR,Julius Nyerere International Airport,TZ,Dar es Salaam,DAR
+50.40194,30.45194,MED,Kiev Zhuliany International Airport,UA,Kiev,IEV
+47.86700058,35.31570053,MED,Zaporizhzhia International Airport,UA,Zaporizhia,OZH
+47.05789948,31.9197998,MED,Mykolaiv International Airport,UA,Nikolayev,NLV
+49.8125,23.95610046,MED,Lviv International Airport,UA,Lviv,LWO
+48.88420105,24.68610001,MED,Ivano-Frankivsk International Airport,UA,Ivano-Frankivsk,IFO
+50.60350037,30.19190025,MED,Gostomel Airport,UA,Kiev,GML
+48.25930023,25.98080063,MED,Chernivtsi International Airport,UA,Chernivtsi,CWC
+49.92480087,36.29000092,LAR,Kharkiv International Airport,UA,Kharkiv,HRK
+50.34500122,30.8946991,LAR,Boryspil International Airport,UA,Kiev,KBP
+0.042386,32.443501,LAR,Entebbe International Airport,UG,Kampala,EBB
+19.28210068,166.6360016,MED,Wake Island Airfield,UM,Wake Island,AWK
+28.20170021,-177.3809967,MED,Henderson Field,UM,Sand Island,MDY
+29.33699989,-98.47109985,MED,Stinson Municipal Airport,US,San Antonio,SSF
+44.580399,-124.057999,MED,Newport Municipal Airport,US,Newport,ONP
+25.907,-80.278397,MED,Opa-locka Executive Airport,US,Miami,OPF
+34.882401,-95.783501,MED,Mc Alester Regional Airport,US,Mc Alester,MLC
+31.15180016,-81.39129639,MED,Malcolm McKinnon Airport,US,Brunswick,SSI
+45.540401,-122.949997,MED,Portland Hillsboro Airport,US,Portland,HIO
+43.89220047,-69.93859863,MED,Brunswick Executive Airport,US,Brunswick,NHZ
+44.68840027,-111.1179962,MED,Yellowstone Airport,US,West Yellowstone,WYS
+42.23789978,-83.53040314,MED,Willow Run Airport,US,Detroit,YIP
+33.30780029,-111.6549988,MED,Phoenix-Mesa-Gateway Airport,US,Phoenix,AZA
+48.12020111,-123.5,MED,William R Fairchild International Airport,US,Port Angeles,CLM
+44.91400146,-97.15470123,MED,Watertown Regional Airport,US,Watertown,ATY
+43.9919014,-76.021698,MED,Watertown International Airport,US,Watertown,ART
+41.26369858,-72.88680267,MED,Tweed New Haven Airport,US,New Haven,HVN
+40.27669907,-74.81349945,MED,Trenton Mercer Airport,US,Trenton,TTN
+47.26789856,-122.5780029,MED,Tacoma Narrows Airport,US,Tacoma,TIW
+29.62229919,-95.65650177,MED,Sugar Land Regional Airport,US,Houston,SGR
+31.53549957,-84.19450378,MED,Southwest Georgia Regional Airport,US,Albany,ABY
+29.95079994,-94.02069855,MED,Southeast Texas Regional Airport,US,Beaumont/Port Arthur,BPT
+40.78319931,-91.12550354,MED,Southeast Iowa Regional Airport,US,Burlington,BRL
+33.22100067,-92.81330109,MED,South Arkansas Regional At Goodwin Field,US,El Dorado,ELD
+43.58200073,-96.74189758,MED,Joe Foss Field Airport,US,Sioux Falls,FSD
+44.76919937,-106.9800034,MED,Sheridan County Airport,US,Sheridan,SHR
+34.89889908,-120.4570007,MED,Santa Maria Pub/Capt G Allan Hancock Field,US,Santa Maria,SMX
+34.42620087,-119.8399963,MED,Santa Barbara Municipal Airport,US,Santa Barbara,SBA
+34.09540176,-117.2350006,MED,San Bernardino International Airport,US,San Bernardino,SBD
+31.35770035,-100.4960022,MED,San Angelo Regional Mathis Field,US,San Angelo,SJT
+38.55390167,-121.2979965,MED,Sacramento Mather Airport,US,Sacramento,MHR
+38.51250076,-121.4929962,MED,Sacramento Executive Airport,US,Sacramento,SAC
+39.90879822,-105.1169968,MED,Rocky Mountain Metropolitan Airport,US,Denver,BJC
+41.5942,-109.065001,MED,Southwest Wyoming Regional Airport,US,Rock Springs,RKS
+40.85100174,-96.75920105,MED,Lincoln Airport,US,Lincoln,LNK
+36.03960037,-95.98459625,MED,Richard Lloyd Jones Jr Airport,US,Tulsa,RVS
+44.04529953,-103.0569992,MED,Rapid City Regional Airport,US,Rapid City,RAP
+46.9693985,-122.9029999,MED,Olympia Regional Airport,US,Olympia,OLM
+40.0798,-83.072998,MED,The Ohio State University Airport - Don Scott Field,US,Columbus,OSU
+42.66550064,-83.42009735,MED,Oakland County International Airport,US,Pontiac,PTK
+30.357106,-85.795414,MED,Northwest Florida Beaches International Airport,US,Panama City Beach,ECP
+40.081902,-75.010597,MED,Northeast Philadelphia Airport,US,Philadelphia,PNE
+36.21070099,-115.1940002,MED,North Las Vegas Airport,US,Las Vegas,VGT
+43.1072998,-78.94619751,MED,Niagara Falls International Airport,US,Niagara Falls,IAG
+30.04240036,-90.02829742,MED,Lakefront Airport,US,New Orleans,NEW
+41.67610168,-70.95690155,MED,New Bedford Regional Airport,US,New Bedford,EWB
+29.82530022,-90.03500366,MED,New Orleans NAS JRB/Alvin Callender Field,US,New Orleans,NBG
+32.76919937,-97.4414978,MED,NAS Fort Worth JRB/Carswell Field,US,Fort Worth,FWH
+33.97050095,-80.99520111,MED,Jim Hamilton L.B. Owens Airport,US,Columbia,CUB
+37.62580109,-120.9540024,MED,Modesto City Co-Harry Sham Field,US,Modesto,MOD
+45.69940186,-110.447998,MED,Mission Field,US,Livingston,LVM
+61.21350098,-149.8439941,MED,Merrill Field,US,Anchorage,MRI
+32.33259964,-88.75189972,MED,Key Field,US,Meridian,MEI
+28.10280037,-80.64530182,MED,Melbourne International Airport,US,Melbourne,MLB
+35.43360138,-119.0569992,MED,Meadows Field,US,Bakersfield,BFL
+44.90950012,-123.0029984,MED,Salem Municipal Airport/McNary Field,US,Salem,SLE
+35.599899,-88.915604,MED,McKellar-Sipes Regional Airport,US,Jackson,MKL
+33.12829971,-117.2799988,MED,Mc Clellan-Palomar Airport,US,Carlsbad,CLD
+38.66759872,-121.401001,MED,Mc Clellan Airfield,US,Sacramento,MCC
+39.325699,-76.413803,MED,Martin State Airport,US,Baltimore,MTN
+39.14099884,-96.67079926,MED,Manhattan Regional Airport,US,Manhattan,MHK
+42.4818,-114.487999,MED,Joslin Field Magic Valley Regional Airport,US,Twin Falls,TWF
+37.3266983,-79.20040131,MED,Lynchburg Regional Preston Glenn Field,US,Lynchburg,LYH
+34.60990143,-79.05940247,MED,Lumberton Regional Airport,US,Lumberton,LBT
+30.351801,-95.414497,MED,Conroe-North Houston Regional Airport,US,Houston,CXO
+35.65420151,-105.1419983,MED,Las Vegas Municipal Airport,US,Las Vegas,LVS
+38.89390182,-119.9950027,MED,Lake Tahoe Airport,US,South Lake Tahoe,TVL
+37.05339813,-84.61589813,MED,Lake Cumberland Regional Airport,US,Somerset,SME
+64.83750153,-147.6139984,MED,Ladd AAF Airfield,US,Fairbanks/Ft Wainwright,FBK
+34.62939835,-118.0849991,MED,Palmdale Regional/USAF Plant 42 Airport,US,Palmdale,PMD
+28.28980064,-81.43710327,MED,Kissimmee Gateway Airport,US,Orlando,ISM
+42.59569931,-87.92780304,MED,Kenosha Regional Airport,US,Kenosha,ENW
+25.64789963,-80.43280029,MED,Kendall-Tamiami Executive Airport,US,Miami,TMB
+33.62670135,-116.1600037,MED,Jacqueline Cochran Regional Airport,US,Palm Springs,TRM
+30.3362999,-81.51439667,MED,Jacksonville Executive at Craig Airport,US,Jacksonville,CRG
+43.6072998,-110.737999,MED,Jackson Hole Airport,US,Jackson,JAC
+42.25979996,-84.45939636,MED,Jackson County Reynolds Field,US,Jackson,JXN
+42.49100113,-76.45839691,MED,Ithaca Tompkins Regional Airport,US,Ithaca,ITH
+65.99279785,-153.7039948,MED,Indian Mountain LRRS Airport,US,Utopia Creek,UTO
+43.514599,-112.070999,MED,Idaho Falls Regional Airport,US,Idaho Falls,IDA
+47.16839981,-88.4890976,MED,Houghton County Memorial Airport,US,Hancock,CMX
+34.47800064,-93.09619904,MED,Memorial Field,US,Hot Springs,HOT
+46.92070007,-96.81580353,MED,Hector International Airport,US,Fargo,FAR
+33.922798,-118.334999,MED,Jack Northrop Field Hawthorne Municipal Airport,US,Hawthorne,HHR
+41.73669815,-72.6493988,MED,Hartford Brainard Airport,US,Hartford,HFD
+42.47000122,-71.28900146,MED,Laurence G Hanscom Field,US,Bedford,BED
+34.65449905,-112.4199982,MED,Ernest A. Love Field,US,Prescott,PRC
+29.6072998,-95.15879822,MED,Ellington Airport,US,Houston,EFD
+31.80719948,-106.3779984,MED,El Paso International Airport,US,El Paso,ELP
+41.62659836,-73.88420105,MED,Dutchess County Airport,US,Poughkeepsie,POU
+41.17829895,-78.8986969,MED,DuBois Regional Airport,US,Dubois,DUJ
+29.37420082,-100.927002,MED,Del Rio International Airport,US,Del Rio,DRT
+41.78020096,-124.2369995,MED,Jack Mc Namara Field Airport,US,Crescent City,CEC
+33.87559891,-84.30200195,MED,DeKalb Peachtree Airport,US,Atlanta,PDK
+66.06960297,-162.7660065,MED,Deering Airport,US,Deering,DRG
+39.83459854,-88.86569977,MED,Decatur Airport,US,Decatur,DEC
+41.56510162,-81.48639679,MED,Cuyahoga County Airport,US,Cleveland,CGF
+42.40919876,-83.00990295,MED,Coleman A. Young Municipal Airport,US,Detroit,DET
+41.51750183,-81.6832962,MED,Burke Lakefront Airport,US,Cleveland,BKL
+39.10329819,-84.41860199,MED,Cincinnati Municipal Airport Lunken Field,US,Cincinnati,LUK
+42.114222,-87.901494,MED,Chicago Executive Airport,US,Chicago/Prospect Heights/Wheeling,PWK
+44.74140167,-85.5821991,MED,Cherry Capital Airport,US,Traverse City,TVC
+38.1385994,-78.45290375,MED,Charlottesville Albemarle Airport,US,Charlottesville,CHO
+38.50899887,-122.8130035,MED,Charles M. Schulz Sonoma County Airport,US,Santa Rosa,STS
+39.12319946,-94.59279633,MED,Charles B. Wheeler Downtown Airport,US,Kansas City,MKC
+39.57009888,-104.848999,MED,Centennial Airport,US,Denver,APA
+31.25880051,-81.46649933,MED,Brunswick Golden Isles Airport,US,Brunswick,BQK
+32.57229996,-116.9800034,MED,Brown Field Municipal Airport,US,San Diego,SDM
+41.80310059,-78.64009857,MED,Bradford Regional Airport,US,Bradford,BFD
+38.22800064,-85.66369629,MED,Bowman Field,US,Louisville,LOU
+40.77249908,-80.3914032,MED,Beaver County Airport,US,Beaver Falls,BFP
+30.533199,-91.149597,MED,Baton Rouge Metropolitan Airport,US,Baton Rouge,BTR
+44.83729935,-117.8089981,MED,Baker City Municipal Airport,US,Baker City,BKE
+44.3205986,-69.79730225,MED,Augusta State Airport,US,Augusta,AUG
+39.45759964,-74.57720184,MED,Atlantic City International Airport,US,Atlantic City,ACY
+40.35440063,-79.93019867,MED,Allegheny County Airport,US,Pittsburgh,AGC
+42.74829865,-73.80169678,MED,Albany International Airport,US,Albany,ALB
+37.649899,-97.433098,LAR,Wichita Eisenhower National Airport,US,Wichita,ICT
+38.748697,-90.370003,LAR,St Louis Lambert International Airport,US,St Louis,STL
+47.449001,-122.308998,LAR,Seattle Tacoma International Airport,US,Seattle,SEA
+44.882,-93.221802,LAR,Minneapolis-St Paul International/Wold-Chamberlain Airport,US,Minneapolis,MSP
+41.785999,-87.752403,LAR,Chicago Midway International Airport,US,Chicago,MDW
+39.2976,-94.713898,LAR,Kansas City International Airport,US,Kansas City,MCI
+33.6367,-84.428101,LAR,Hartsfield Jackson Atlanta International Airport,US,Atlanta,ATL
+26.072599,-80.152702,LAR,Fort Lauderdale Hollywood International Airport,US,Fort Lauderdale,FLL
+21.32062,-157.924228,LAR,Daniel K Inouye International Airport,US,Honolulu,HNL
+32.896801,-97.038002,LAR,Dallas Fort Worth International Airport,US,Dallas-Fort Worth,DFW
+38.37310028,-81.59320068,LAR,Yeager Airport,US,Charleston,CRW
+29.64539909,-95.27890015,LAR,William P Hobby Airport,US,Houston,HOU
+35.39310074,-97.60070038,LAR,Will Rogers World Airport,US,Oklahoma City,OKC
+38.94449997,-77.45580292,LAR,Washington Dulles International Airport,US,Washington,IAD
+36.19839859,-95.88809967,LAR,Tulsa International Airport,US,Tulsa,TUL
+32.11610031,-110.9410019,LAR,Tucson International Airport,US,Tucson,TUS
+38.36669922,-82.55799866,LAR,Tri-State/Milton J. Ferguson Field,US,Huntington,HTS
+36.475201,-82.407401,LAR,Tri-Cities Regional TN/VA Airport,US,Bristol/Johnson/Kingsport,TRI
+41.58679962,-83.80780029,LAR,Toledo Express Airport,US,Toledo,TOL
+41.88470078,-91.71080017,LAR,The Eastern Iowa Airport,US,Cedar Rapids,CID
+61.17440033,-149.9960022,LAR,Ted Stevens Anchorage International Airport,US,Anchorage,ANC
+27.97550011,-82.53320313,LAR,Tampa International Airport,US,Tampa,TPA
+30.39649963,-84.35030365,LAR,Tallahassee Regional Airport,US,Tallahassee,TLH
+41.732601,-71.420403,LAR,Theodore Francis Green State Airport,US,Providence,PVD
+43.11119843,-76.10630035,LAR,Syracuse Hancock International Airport,US,Syracuse,SYR
+37.24570084,-93.38860321,LAR,Springfield Branson National Airport,US,Springfield,SGF
+47.61989975,-117.5339966,LAR,Spokane International Airport,US,Spokane,GEG
+38.66210175,-90.65200043,LAR,Spirit of St Louis Airport,US,St Louis,SUS
+26.53619957,-81.75520325,LAR,Southwest Florida International Airport,US,Fort Myers,RSW
+41.70869827,-86.31729889,LAR,South Bend Regional Airport,US,South Bend,SBN
+42.40259933,-96.38439941,LAR,Sioux Gateway Col. Bud Day Field,US,Sioux City,SUX
+38.5452,-89.835197,LAR,Scott AFB/Midamerica Airport,US,Belleville,BLV
+32.12760162,-81.20210266,LAR,Savannah Hilton Head International Airport,US,Savannah,SAV
+27.39539909,-82.55439758,LAR,Sarasota Bradenton International Airport,US,Sarasota/Bradenton,SRQ
+37.362598,-121.929001,LAR,Norman Y. Mineta San Jose International Airport,US,San Jose,SJC
+37.61899948,-122.375,LAR,San Francisco International Airport,US,San Francisco,SFO
+32.73360062,-117.1900024,LAR,San Diego International Airport,US,San Diego,SAN
+29.53370094,-98.46980286,LAR,San Antonio International Airport,US,San Antonio,SAT
+40.78839874,-111.9779968,LAR,Salt Lake City International Airport,US,Salt Lake City,SLC
+38.69540024,-121.5910034,LAR,Sacramento International Airport,US,Sacramento,SMF
+38.8521,-77.037697,LAR,Ronald Reagan Washington National Airport,US,Washington,DCA
+43.90829849,-92.5,LAR,Rochester International Airport,US,Rochester,RST
+39.813801,-82.927803,LAR,Rickenbacker International Airport,US,Columbus,LCK
+35.219398,-101.706001,LAR,Rick Husband Amarillo International Airport,US,Amarillo,AMA
+37.50519943,-77.31970215,LAR,Richmond International Airport,US,Richmond,RIC
+39.49909973,-119.7679977,LAR,Reno Tahoe International Airport,US,Reno,RNO
+47.38660049,-92.83899689,LAR,Range Regional Airport,US,Hibbing,HIB
+35.87760162,-78.78749847,LAR,Raleigh Durham International Airport,US,Raleigh/Durham,RDU
+41.44850159,-90.50749969,LAR,Quad City International Airport,US,Moline,MLI
+43.64619827,-70.30930328,LAR,Portland International Jetport Airport,US,Portland,PWM
+45.58869934,-122.5979996,LAR,Portland International Airport,US,Portland,PDX
+39.998001,-82.891899,LAR,John Glenn Columbus International Airport,US,Columbus,CMH
+40.49150085,-80.23290253,LAR,Pittsburgh International Airport,US,Pittsburgh,PIT
+36.09780121,-79.93730164,LAR,Piedmont Triad International Airport,US,Greensboro,GSO
+33.43429947,-112.012001,LAR,Phoenix Sky Harbor International Airport,US,Phoenix,PHX
+39.87189865,-75.2410965,LAR,Philadelphia International Airport,US,Philadelphia,PHL
+26.68320084,-80.09559631,LAR,Palm Beach International Airport,US,West Palm Beach,PBI
+28.77759933,-81.23750305,LAR,Orlando Sanford International Airport,US,Orlando,SFB
+28.42939949,-81.30899811,LAR,Orlando International Airport,US,Orlando,MCO
+41.9786,-87.9048,LAR,Chicago O'Hare International Airport,US,Chicago,ORD
+37.721298,-122.221001,LAR,Metropolitan Oakland International Airport,US,Oakland,OAK
+36.89459991,-76.20120239,LAR,Norfolk International Airport,US,Norfolk,ORF
+37.13190079,-76.49299622,LAR,Newport News Williamsburg International Airport,US,Newport News,PHF
+40.69250107,-74.16870117,LAR,Newark Liberty International Airport,US,Newark,EWR
+36.12450027,-86.67819977,LAR,Nashville International Airport,US,Nashville,BNA
+32.30059814,-86.39399719,LAR,Montgomery Regional (Dannelly Field) Airport,US,Montgomery,MGM
+32.51089859,-92.03769684,LAR,Monroe Regional Airport,US,Monroe,MLU
+30.69120026,-88.24279785,LAR,Mobile Regional Airport,US,Mobile,MOB
+25.79319954,-80.29060364,LAR,Miami International Airport,US,Miami,MIA
+35.04240036,-89.97669983,LAR,Memphis International Airport,US,Memphis,MEM
+35.81100082,-83.9940033,LAR,McGhee Tyson Airport,US,Knoxville,TYS
+36.08010101,-115.1520004,LAR,McCarran International Airport,US,Las Vegas,LAS
+43.53290176,-84.07959747,LAR,MBS International Airport,US,Saginaw,MBS
+42.932598,-71.435699,LAR,Manchester-Boston Regional Airport,US,Manchester,MHT
+33.663601,-101.822998,LAR,Lubbock Preston Smith International Airport,US,Lubbock,LBB
+38.1744,-85.736,LAR,Louisville International Standiford Field,US,Louisville,SDF
+29.99340057,-90.25800323,LAR,Louis Armstrong New Orleans International Airport,US,New Orleans,MSY
+33.94250107,-118.4079971,LAR,Los Angeles International Airport,US,Los Angeles,LAX
+42.36429977,-71.00520325,LAR,General Edward Lawrence Logan International Airport,US,Boston,BOS
+34.72940063,-92.22429657,LAR,Bill & Hillary Clinton National Airport/Adams Field,US,Little Rock,LIT
+29.359501,-100.778002,LAR,DLF Airport,US,Del Rio,DLF
+40.77719879,-73.87259674,LAR,La Guardia Airport,US,New York,LGA
+30.20529938,-91.98760223,LAR,Lafayette Regional Airport,US,Lafayette,LFT
+34.05599976,-117.6009979,LAR,Ontario International Airport,US,Ontario,ONT
+37.15179825,-94.49829865,LAR,Joplin Regional Airport,US,Joplin,JLN
+38.810799,-76.866997,LAR,Joint Base Andrews,US,Camp Springs,ADW
+33.67570114,-117.8679962,LAR,John Wayne Airport-Orange County Airport,US,Santa Ana,SNA
+40.63980103,-73.77890015,LAR,John F Kennedy International Airport,US,New York,JFK
+30.49410057,-81.68789673,LAR,Jacksonville International Airport,US,Jacksonville,JAX
+32.31119919,-90.07589722,LAR,Jackson-Medgar Wiley Evers International Airport,US,Jackson,JAN
+39.7173,-86.294403,LAR,Indianapolis International Airport,US,Indianapolis,IND
+34.6371994,-86.77510071,LAR,Huntsville International Carl T Jones Field,US,Huntsville,HSV
+30.40730095,-89.07009888,LAR,Gulfport Biloxi International Airport,US,Gulfport,GPT
+34.89569855,-82.21890259,LAR,Greenville Spartanburg International Airport,US,Greenville,GSP
+43.1189003,-77.67240143,LAR,Greater Rochester International Airport,US,Rochester,ROC
+29.9843998,-95.34140015,LAR,George Bush Intercontinental Houston Airport,US,Houston,IAH
+40.66419983,-89.69329834,LAR,General Wayne A. Downing Peoria International Airport,US,Peoria,PIA
+42.94720078,-87.89659882,LAR,General Mitchell International Airport,US,Milwaukee,MKE
+30.4832,-86.525398,LAR,Destin-Ft Walton Beach Airport,US,Valparaiso,VPS
+32.819801,-97.362396,LAR,Fort Worth Meacham International Airport,US,Fort Worth,FTW
+32.98759842,-97.31880188,LAR,Fort Worth Alliance Airport,US,Fort Worth,AFW
+40.97850037,-85.19509888,LAR,Fort Wayne International Airport,US,Fort Wayne,FWA
+35.33660126,-94.36740112,LAR,Fort Smith Regional Airport,US,Fort Smith,FSM
+39.1754,-76.668297,LAR,Baltimore/Washington International Thurgood Marshall Airport,US,Baltimore,BWI
+64.81510162,-147.8560028,LAR,Fairbanks International Airport,US,Fairbanks,FAI
+42.08312701,-80.17386675,LAR,Erie International Tom Ridge Field,US,Erie,ERI
+41.3032,-95.894096,LAR,Eppley Airfield,US,Omaha,OMA
+37.3255,-79.975403,LAR,Roanokeâ€“Blacksburg Regional Airport,US,Roanoke,ROA
+46.84209824,-92.19360352,LAR,Duluth International Airport,US,Duluth,DLH
+42.40200043,-90.70950317,LAR,Dubuque Regional Airport,US,Dubuque,DBQ
+42.21239853,-83.35340118,LAR,Detroit Metropolitan Wayne County Airport,US,Detroit,DTW
+41.5340004,-93.6631012,LAR,Des Moines International Airport,US,Des Moines,DSM
+39.86169815,-104.6729965,LAR,Denver International Airport,US,Denver,DEN
+29.179899,-81.058098,LAR,Daytona Beach International Airport,US,Daytona Beach,DAB
+39.90240097,-84.2193985,LAR,James M Cox Dayton International Airport,US,Dayton,DAY
+43.13990021,-89.33750153,LAR,Dane County Regional Truax Field,US,Madison,MSN
+32.847099,-96.851799,LAR,Dallas Love Field,US,Dallas,DAL
+27.77039909,-97.50119781,LAR,Corpus Christi International Airport,US,Corpus Christi,CRP
+33.93880081,-81.11949921,LAR,Columbia Metropolitan Airport,US,Columbia,CAE
+38.805801,-104.700996,LAR,City of Colorado Springs Municipal Airport,US,Colorado Springs,COS
+41.4117012,-81.84980011,LAR,Cleveland Hopkins International Airport,US,Cleveland,CLE
+39.04880142,-84.6678009,LAR,Cincinnati Northern Kentucky International Airport,US,Cincinnati,CVG
+42.19540024,-89.09719849,LAR,Chicago Rockford International Airport,US,Chicago/Rockford,RFD
+35.03530121,-85.20379639,LAR,Lovell Field,US,Chattanooga,CHA
+35.2140007,-80.94309998,LAR,Charlotte Douglas International Airport,US,Charlotte,CLT
+40.47710037,-88.91590118,LAR,Central Illinois Regional Airport at Bloomington-Normal,US,Bloomington/Normal,BMI
+42.94049835,-78.73220062,LAR,Buffalo Niagara International Airport,US,Buffalo,BUF
+41.93889999,-72.68319702,LAR,Bradley International Airport,US,Hartford,BDL
+47.52999878,-122.302002,LAR,Boeing Field King County International Airport,US,Seattle,BFI
+38.03649902,-84.60590363,LAR,Blue Grass Airport,US,Lexington,LEX
+33.56290054,-86.75350189,LAR,Birmingham-Shuttlesworth International Airport,US,Birmingham,BHM
+45.80770111,-108.5429993,LAR,Billings Logan International Airport,US,Billings,BIL
+44.80739975,-68.82810211,LAR,Bangor International Airport,US,Bangor,BGR
+30.19449997,-97.66989899,LAR,Austin Bergstrom International Airport,US,Austin,AUS
+44.48509979,-88.12960052,LAR,Austin Straubel International Airport,US,Green Bay,GRB
+33.36989975,-81.96450043,LAR,Augusta Regional At Bush Field,US,Augusta,AGS
+35.43619919,-82.54180145,LAR,Asheville Regional Airport,US,Asheville,AVL
+35.040199,-106.609001,LAR,Albuquerque International Sunport,US,Albuquerque,ABQ
+39.84410095,-89.67790222,LAR,Abraham Lincoln Capital Airport,US,Springfield,SPI
+-34.838402,-56.0308,LAR,Carrasco International /General C L Berisso Airport,UY,Montevideo,MVD
+41.25790024,69.28119659,LAR,Tashkent International Airport,UZ,Tashkent,TAS
+13.156695,-61.149945,MED,Argyle International Airport,VC,Kingstown,SVD
+7.56538,-72.035103,MED,Mayor Buenaventura Vivas International Airport,VE,Santo Domingo,STD
+10.14973259,-67.92839813,MED,Arturo Michelena International Airport,VE,Valencia,VLN
+10.111111,-64.692222,LAR,General Jose Antonio Anzoategui International Airport,VE,Barcelona,BLA
+18.44479942,-64.54299927,MED,Terrance B. Lettsome International Airport,VG,Road Town,EIS
+18.33729935,-64.9733963,MED,Cyril E. King Airport,VI,Charlotte Amalie Harry S. Truman Airport,STT
+10.81879997,106.6520004,LAR,Tan Son Nhat International Airport,VN,Ho Chi Minh City,SGN
+21.22120094,105.8069992,LAR,Noi Bai International Airport,VN,Hanoi,HAN
+-17.69930077,168.3200073,MED,Bauerfield International Airport,VU,Port Vila,VLI
+-14.31140041,-178.0659943,MED,Pointe Vele Airport,WF,Futuna Island,FUT
+-13.23830032,-176.1990051,MED,Hihifo Airport,WF,Wallis Island,WLS
+-13.82999992,-172.0079956,MED,Faleolo International Airport,WS,Apia,APW
+15.47630024,44.21969986,MED,Sana'a International Airport,YE,Sana'a,SAH
+-12.8046999,45.28110123,MED,Dzaoudzi Pamandzi International Airport,YT,Dzaoudzi,DZA
+-25.6539,28.224199,MED,Wonderboom Airport,ZA,Pretoria,PRY
+-28.74099922,32.09209824,MED,Richards Bay Airport,ZA,Richards Bay,RCB
+-26.24250031,28.15119934,MED,Rand Airport,ZA,Johannesburg,QRA
+-33.98490143,25.61730003,MED,Port Elizabeth Airport,ZA,Port Elizabeth,PLZ
+-25.93849945,27.92609978,MED,Lanseria Airport,ZA,Johannesburg,HLA
+-28.58169937,29.74970055,MED,Ladysmith Airport,ZA,Ladysmith,LAY
+-28.80279922,24.76519966,MED,Kimberley Airport,ZA,Kimberley,KIM
+-29.09269905,26.30240059,MED,Bram Fischer International Airport,ZA,Bloemfontain,BFN
+-28.575001,16.5333,MED,Alexander Bay Airport,ZA,Alexander Bay,ALJ
+-26.1392,28.246,LAR,OR Tambo International Airport,ZA,Johannesburg,JNB
+-29.61444444,31.11972222,LAR,King Shaka International Airport,ZA,Durban,DUR
+-33.96480179,18.60169983,LAR,Cape Town International Airport,ZA,Cape Town,CPT
+-26.1392,28.246,LAR,OR Tambo International Airport,ZA,Johannesburg,JNB
+-17.82180023,25.8227005,MED,Livingstone Airport,ZM,Livingstone,LVI
+-15.33080006,28.45260048,LAR,Kenneth Kaunda International Airport Lusaka,ZM,Lusaka,LUN
+-18.09589958,25.8390007,MED,Victoria Falls International Airport,ZW,Victoria Falls,VFA
+-20.017401,28.617901,MED,Joshua Mqabuko Nkomo International Airport,ZW,Bulawayo,BUQ
+-17.931801,31.0928,LAR,Robert Gabriel Mugabe International Airport,ZW,Harare,HRE
